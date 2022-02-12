@@ -249,12 +249,11 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie"
 
 
   <div class="content">
-    <form class="search-form" action="search.html" method="post" id="search-form" accept-charset="UTF-8"><div><div class="container-inline form-wrapper" id="edit-basic"><div class="form-item form-type-textfield form-item-keys">
+    <form onsubmit="DoSubmit()" class="search-form" action="https://www.google.si/search" method="get" id="search-form" accept-charset="UTF-8"><div><div class="container-inline form-wrapper" id="edit-basic"><div class="form-item form-type-textfield form-item-keys">
   <label for="edit-keys">Enter your keywords </label>
- <input type="text" id="edit-keys" name="keys" value="" size="40" maxlength="255" class="form-text" />
+ <input type="text" id="q" name="q" value="" size="40" maxlength="255" class="form-text" />
 </div>
-<input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-kSiLxggzbyWI7rRlEVee-dBfL4eS5JoN_p0C-Y4mr24" />
-<input type="hidden" name="form_id" value="search_form" />
+<input type="submit" id="edit-submit" name="op" value="search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-kSiLxggzbyWI7rRlEVee-dBfL4eS5JoN_p0C-Y4mr24" />
 </div></form>  </div>
 </div>
   </div>
@@ -366,5 +365,12 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie"
 			</div>
 		</div>
 	</div>
-</div>  </body>
+</div>
+<script>
+  function DoSubmit(){
+    document.querySelector('#search-form').q.value += " site:profanity-arhiv.netlify.app"
+    return true;
+  }
+</script>
+</body>
 </html>
