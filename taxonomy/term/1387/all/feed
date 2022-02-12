@@ -1,0 +1,26 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/1387/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Massacre</title>
+    <link>http://www.profanity.si/taxonomy/term/1387/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/1387/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Invictus</title>
+    <link>http://www.profanity.si/recenzije/invictus</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Skupina nas je obiskala leta 2009 na POA in takrat sem se prvič srečal z njihovo glasbo. Žalostno, ne? Ampak kaj, ko so oni eden izmed bendov, ki so nastali v osemdesetih, in to v Nemčiji, ob boku Kreator, Sodom in Destruction. Tako že od samega začetka spadajo v bolj underground vode.  Sicer so njihove izdaje zgodnjega obdobja postale že kultne, vendar očitno ne dovolj, da bi nanje lahko naletel čisto vsak. Kakorkoli, od takrat sem nekoliko bolj pozoren na njih in letos nam ponujajo svežo ploščo.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/necronomicon&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Necronomicon&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/invictus&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/53418_necronomicon_invictus.jpg?itok=OkR1qK9_&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 16 Feb 2012 15:23:11 +0000</pubDate>
+ <dc:creator>Gregor Strugar</dc:creator>
+ <guid isPermaLink="false">1453 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Descent Into Chaos</title>
+    <link>http://www.profanity.si/recenzije/descent-into-chaos</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Nizozemski Legion of the Damned so po tem, ko je Dew-Scented nekolika upadla popularnost, postali nekakšna vodilna sila v modernem thrash/death metalu. V Evropi mogoče res, vendar čez lužo takšnih skupin kar mrgoli, a verjetno poprej niso nastopali na vseh možnih Rock the Nation turnejah in festivalih. Nočem obtožiti, da je slava Legion of the Damned umetna, vendar je po eni strani pretirana, ko človek usliši razne Revocation ali pa Havok.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/legion-of-the-damned&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Legion of the Damned&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/descent-into-chaos&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/Legion-of-the-Damned-Descent-Into-Chaos.jpg?itok=XN_9tNga&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 20 Dec 2011 16:34:11 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">1147 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

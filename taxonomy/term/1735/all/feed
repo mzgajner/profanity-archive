@@ -1,0 +1,28 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/1735/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Kaoz</title>
+    <link>http://www.profanity.si/taxonomy/term/1735/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/1735/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Reportaža: Velenjski dan mrtvih z Benighted</title>
+    <link>http://www.profanity.si/reportaze/reporta%C5%BEa-velenjski-dan-mrtvih-z-benighted</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Če se danes še pritožujete nad koncertno ponudbo v Sloveniji na področju ekstremne glasbe, očitno nimate vpogleda v situacijo oziroma ste preveč leni, da bi se pozanimali, kaj dogaja in kje dogaja.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/reportaze/reporta%C5%BEa-velenjski-dan-mrtvih-z-benighted&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/benighted%20velenje.jpg?itok=WAnh0S4g&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-datum field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Datum:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2017-11-01T00:00:00+01:00&quot;&gt;Wed, 11/01/2017&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 05 Nov 2017 17:35:50 +0000</pubDate>
+ <dc:creator>Ivan Cepanec</dc:creator>
+ <guid isPermaLink="false">11188 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Ko govori le glasba ...</title>
+    <link>http://www.profanity.si/intervjuji/ko-govori-le-glasba</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;em&gt;Tim Draksler je pri nas znan potem, da je igral v Eliminator in Interceptor, kjer se mnogi strinjajo, da ni pokazal vsega kar zmore. Prav zato se bo metal javnosti predstavil s svojim prvim EP-jem Morbid Desire. Pri tem ambicioznem projektu še zmeraj ni jasno, ali bo šlo za solo projekt, ali pa za skupino. Zato smo pri Profanity odločili, da ga pokličemo in ga prosimo, da nam razjasni svoje videnje prihodnosti.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Foto: osebni arhiv Tima Drakslerja&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/intervjuji/ko-govori-le-glasba&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/133007_172134752817072_100000616445794_415177_5746820_o.jpg?itok=lHDSamMM&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 24 Feb 2012 10:10:45 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">1489 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

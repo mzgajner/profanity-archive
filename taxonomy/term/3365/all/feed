@@ -1,0 +1,26 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/3365/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Satan&amp;#039;s Wrath</title>
+    <link>http://www.profanity.si/taxonomy/term/3365/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/3365/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Aeons of Satan&#039;s Reign</title>
+    <link>http://www.profanity.si/recenzije/aeons-of-satans-reign</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Nekateri se nikoli ne naučijo. Četudi sem nekako potihem upal, da bo prvenec grških blackt(h)rasherjev Satan&#039;s Wrath obenem tudi njihov labodji spev, temu ni bilo ravno tako, sedaj pa imam v rokah njihov drugi izdelek, ki sliši na ime &quot;Aeons of Satan&#039;s Reign.&quot;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/satans-wrath&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Satan&amp;#039;s Wrath&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/aeons-of-satans-reign&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/satanswrath2.jpg?itok=VeFofLqz&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 01 Feb 2014 19:54:07 +0000</pubDate>
+ <dc:creator>Andrej Čuk</dc:creator>
+ <guid isPermaLink="false">5894 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Galloping Blasphemy</title>
+    <link>http://www.profanity.si/recenzije/galloping-blasphemy</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Splošno znano je (no, bi vsaj moralo biti), da metal glasba pozna dve plati. Tista zgornja, ki jo predstavljajo večje založbe in posledično bendi, ki se jih lažje proda, pa tista spodnja, ki v zadnjih letih v glavnem prevzema vonj in podobo 70-ih in 80-ih let. Preplet med tem dvojim ni nujno slaba stvar, je pa zagotovo hudo občutljiva tema in je kot taka botrovala že marsikateremu ponesrečenemu eksperimentu na področju težkometalnih zvokov. Kje torej vstopijo Satan&#039;s Wrath, ki prek Metal Blade Records s prvencem Galloping Blasphemy očitno ciljajo visoko?&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/satans-wrath&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Satan&amp;#039;s Wrath&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/galloping-blasphemy&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/satanswrath.gif?itok=zHPPQds3&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 10 Mar 2013 02:16:26 +0000</pubDate>
+ <dc:creator>Andrej Čuk</dc:creator>
+ <guid isPermaLink="false">3755 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

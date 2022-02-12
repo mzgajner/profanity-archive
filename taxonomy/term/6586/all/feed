@@ -1,0 +1,18 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/6586/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Natt</title>
+    <link>http://www.profanity.si/taxonomy/term/6586/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/6586/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Reportaža: Grand Ritval - Za živali gre!</title>
+    <link>http://www.profanity.si/reportaze/reporta%C5%BEa-grand-ritval-za-%C5%BEivali-gre</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;V klubu &lt;strong&gt;Gromka &lt;/strong&gt;deluje kar nekaj kolektivov in eden izmed njih je duet &lt;strong&gt;Kvlt Ov Seitan Booking&lt;/strong&gt;. Dvojica, kot piše v opisu na njuni uradni Facebook strani, organizira predvsem underground metal, HC in punk bende, a sta odprta tudi za druge žanre. A to ni vse – natančno branje kaže, da &lt;strong&gt;Kvlt&lt;/strong&gt; ni aktiven samo na področju promocije underground bendov, temveč tudi načina življenja, ki ne prizadene živih bitij.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/reportaze/reporta%C5%BEa-grand-ritval-za-%C5%BEivali-gre&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/2019-06-10-grand-ritval-za-%C5%BEivali-101228.jpg?itok=4c_M48GC&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-datum field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Datum:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2019-06-07T00:00:00+02:00&quot;&gt;Fri, 06/07/2019&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 16 Jun 2019 19:51:03 +0000</pubDate>
+ <dc:creator>Ivan Cepanec</dc:creator>
+ <guid isPermaLink="false">12676 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/3915/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Adrian Smith</title>
+    <link>http://www.profanity.si/taxonomy/term/3915/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/3915/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Reportaža: SCREAM FOR ME, ZAGREB!!!</title>
+    <link>http://www.profanity.si/reportaze/reporta%C5%BEa-scream-for-me-zagreb</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;em&gt;Foto: Osebni arhiv &lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Preden se podate v prebiranje reportaže, se vprašajte: &#039;&#039;Kaj je vaš najzgodnejši spomin v zvezi z Iron Maiden?&#039;&#039;&lt;/p&gt;
+&lt;p&gt;Namreč, drznem si trditi, da če vas je bend pritegnil v pozitivnem smislu, je to gotovo storil najprej z vizualnim aspektom (maskota Eddie, zakon naslovnice plat, singlov, bootlegov, zastav, majic), nato z glasbo, vsekakor pa še s kakšnim impresivnim spotom ali koncertnim posnetkom. Mogoče se tudi motim glede vrstnega reda, ampak recimo, da se nekako ujamemo pri teh treh stvareh, če pomislimo na ime Iron Maiden.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/reportaze/reporta%C5%BEa-scream-for-me-zagreb&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/MAIDEN%20ZAGREB.jpg?itok=nWPyxs3t&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-datum field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Datum:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2013-07-31T00:00:00+02:00&quot;&gt;Wed, 07/31/2013&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 01 Aug 2013 09:31:59 +0000</pubDate>
+ <dc:creator>Ivan Cepanec</dc:creator>
+ <guid isPermaLink="false">4680 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

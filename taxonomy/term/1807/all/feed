@@ -1,0 +1,26 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/1807/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Spawn Of Possession</title>
+    <link>http://www.profanity.si/taxonomy/term/1807/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/1807/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Četrtkov spopad tehničnosti</title>
+    <link>http://www.profanity.si/reportaze/%C4%8Detrtkov-spopad-tehni%C4%8Dnosti</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Dandanes smo pogostokrat priča izjavam, kako se je glasba izneverila z neupoštevanjem konvencij, ki so bile vzpostavljene nekje v osemdesetih, kar recimo velja za death metal, ki z modernimi skupinami popolnoma odstopa od neke preprostosti. In tako so se zvrstile skupine, ki več dajo na tehniko kot pa kaj drugega. Po svoje bi tu marsikdo očital, da te skupine igrajo popolnoma brez duše. Mogoče res, saj tu pomembnejšo vlogo igra znanje kot pa minimalizem, narejen s kvazi občutkom.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/reportaze/%C4%8Detrtkov-spopad-tehni%C4%8Dnosti&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/Obscura_Poster-2S.jpg?itok=PpVLJt5d&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-datum field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Datum:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2012-03-22T00:00:00+01:00&quot;&gt;Thu, 03/22/2012&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 28 Mar 2012 11:10:45 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">1658 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Incurso</title>
+    <link>http://www.profanity.si/recenzije/incurso</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Včasih, ko nas pot pelje nekam v tujino na kakšen koncert, rad sopotnike zamorim z najbolj modernimi skupinami, ki se naslanjajo na tehniko, v mnogih primerih z njo pretiravajo. Med drugim se zgodi, da imajo sopotniki tehničnosti in kompleksnosti kmalu dovolj in želijo poslušati nekaj preprostega ali pa odpreti vrata in skočiti ven - na avtocesti seveda. No in za krepko paranje živcev sopotnikov jim rade volje zavrtim Incurso, novi album švedske zasedbe, Spawn of Possession (SOP).&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/spawn-of-possession&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Spawn Of Possession&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/incurso&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/incurso_1_0.jpg?itok=jM0Z6YfC&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 16 Mar 2012 07:04:18 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">1578 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/4565/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Srečko Kosovel</title>
+    <link>http://www.profanity.si/taxonomy/term/4565/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/4565/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Poletje Na Školjki</title>
+    <link>http://www.profanity.si/recenzije/poletje-na-%C5%A1koljki</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Pujski Sreče oz. v tujini znani kot Dramatic Climax so letos izdali prvenec Poletje na školjki, kjer se predstavlja 17 primerov vrhunske dadaistične poezije (+ bonus track), zavite v malo Cock And Ball Torture s pridihom prvega demota od Requiem in željo po tem, da bi na njem (prvencu od Pujskov namreč) gostoval Zoran Predin.&lt;/p&gt;
+&lt;p&gt;Bend je super, posnetek je grozen, bend poglejte v živo, CD pa verjetno dobite pri sosedu, ki ga še niso aretirali zaradi voajerizma in eksihibicionizma.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/pujski-sre%C4%8De&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Pujski Sreče&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/poletje-na-%C5%A1koljki&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/Pusjki_COVER.jpg?itok=df5M_1zz&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 17 Dec 2013 19:18:11 +0000</pubDate>
+ <dc:creator>Ivan Cepanec</dc:creator>
+ <guid isPermaLink="false">5654 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

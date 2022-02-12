@@ -1,0 +1,26 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/6400/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Velenje</title>
+    <link>http://www.profanity.si/taxonomy/term/6400/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/6400/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Reportaža: Trohneči Kristus v Velenju</title>
+    <link>http://www.profanity.si/reportaze/reporta%C5%BEa-trohne%C4%8Di-kristus-v-velenju</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;Železni aktivizem&lt;/strong&gt; je v sodelovanju z &lt;strong&gt;Metaldays&lt;/strong&gt; ekipo pokazal, kako se stvarem streže in kako se organizira in izvede konkretni koncert, ne glede na velikost prizorišča ali ekipe. Organizirati tak tip koncerta v takih pogojih (manjši plac, lokacija izven osrednje Slovenije) in da celotna stvar uspe več kot perfektno, je enostavno orgazmično za vse vpletene.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/reportaze/reporta%C5%BEa-trohne%C4%8Di-kristus-v-velenju&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/Rotting-Christ.jpg?itok=ALQ-Nd71&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-datum field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Datum:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2018-07-25T00:00:00+02:00&quot;&gt;Wed, 07/25/2018&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 25 Jul 2018 13:39:14 +0000</pubDate>
+ <dc:creator>Simon Pelko</dc:creator>
+ <guid isPermaLink="false">12048 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Reportaža: Velenjski dan mrtvih z Benighted</title>
+    <link>http://www.profanity.si/reportaze/reporta%C5%BEa-velenjski-dan-mrtvih-z-benighted</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Če se danes še pritožujete nad koncertno ponudbo v Sloveniji na področju ekstremne glasbe, očitno nimate vpogleda v situacijo oziroma ste preveč leni, da bi se pozanimali, kaj dogaja in kje dogaja.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/reportaze/reporta%C5%BEa-velenjski-dan-mrtvih-z-benighted&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/benighted%20velenje.jpg?itok=WAnh0S4g&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-datum field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Datum:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2017-11-01T00:00:00+01:00&quot;&gt;Wed, 11/01/2017&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 05 Nov 2017 17:35:50 +0000</pubDate>
+ <dc:creator>Ivan Cepanec</dc:creator>
+ <guid isPermaLink="false">11188 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/3493/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Metal Tank</title>
+    <link>http://www.profanity.si/taxonomy/term/3493/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/3493/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Reportaža: Metal Koroška</title>
+    <link>http://www.profanity.si/reportaze/reporta%C5%BEa-metal-koro%C5%A1ka</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;em&gt;Fotke: Suzana Vrbač&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Cenjeni bralci in bralke, opravičujem se, ker tale reportaža ne bo reportaža v klasičnem smislu. Že zaradi tega, ker igram v enem od treh bendov, ki so nastopali, le-to ne more biti reportaža kot taka. Mogoče bi lahko rekli potopis, mogoče doživljajski spis. Kakorkoli že – v sledečih vrsticah boste prebrali marsikaj, kar ni tipično niti za že tako &#039;&#039;out-of-the-box&#039;&#039; stvar, kot je &#039;&#039;klasična&#039;&#039; reportaža na Profanity.si.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/reportaze/reporta%C5%BEa-metal-koro%C5%A1ka&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/NASLOVNICA%20za%20report.jpg?itok=Zrxt51Bi&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-datum field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Datum:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2013-10-31T00:00:00+01:00&quot;&gt;Thu, 10/31/2013&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 02 Nov 2013 18:34:12 +0000</pubDate>
+ <dc:creator>Ivan Cepanec</dc:creator>
+ <guid isPermaLink="false">5344 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Queen of the Midnight Fire</title>
+    <link>http://www.profanity.si/recenzije/queen-of-the-midnight-fire</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;V davnih, davnih časih, ko sem še pisal za Master Magazin, sem se načeloma izogibal pisanju recenzij domačih bendov. Iskreno zato, ker mi na slovenski sceni večina stvari ni bila všeč, v glavnem zaradi (vsaj meni) podobnih oziroma kar istih razlogov. Četudi sem svoje nenapisano pravilo nekako podzavestno prenesel na Profanity, kaže da ga bom moral ukiniti. Namreč založba Metal Tank že drugič v kratkem ponuja obetaven izdelek s slovenske metal scene - tokrat Queen of the Midnight Fire, prvenec postojnskih Vigilance.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/vigilance&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Vigilance&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/queen-of-the-midnight-fire&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/vigilance_queen_of_the_midnight_fire.jpg?itok=jeWFcE8S&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 15 Apr 2013 21:34:40 +0000</pubDate>
+ <dc:creator>Andrej Čuk</dc:creator>
+ <guid isPermaLink="false">4003 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Panik(k)a pred izidom: Intervju z Gašperjem Fleretom</title>
+    <link>http://www.profanity.si/intervjuji/panikka-pred-izidom-intervju-z-ga%C5%A1perjem-fleretom</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;em&gt;Intervjuji prek chata so zabavna stvar, saj omogočijo sproščeno vzdušje in spontan pogovor, ki včasih zaide tudi v nekoliko odštekane smeri. Format je torej thrashu pisan na kožo, Panikk pa so ravnokar izdali svoj prvenec Unbearable Conditions. Dva in dva je enako štiri, jaz pa sem si za žrtev intervjuja izbral desno roko zakona Gašperja Flereta; kajti zakon je thrash, Panikk pa ga imajo toliko, da imajo kar dve črki K v imenu. Najin pogovor o ritem kitari, Ghost in papežu si lahko preberete spodaj.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/intervjuji/panikka-pred-izidom-intervju-z-ga%C5%A1perjem-fleretom&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/panikk.jpg?itok=jBYcY6WD&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 01 Apr 2013 19:40:09 +0000</pubDate>
+ <dc:creator>Andrej Čuk</dc:creator>
+ <guid isPermaLink="false">3917 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

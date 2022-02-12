@@ -1,0 +1,26 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/2679/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Southern Lord Records</title>
+    <link>http://www.profanity.si/taxonomy/term/2679/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/2679/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Hostage Animal</title>
+    <link>http://www.profanity.si/recenzije/hostage-animal</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Zadnje čase so supergrupe kar precej popularne. Že doma jih imamo nekaj, recimo vsepopularni glasbeni kosmos &lt;strong&gt;Đezm&lt;/strong&gt;, kaj šele v mednarnodnih glasbenih vodah. Ravno danes sem prebral novičko, da je &lt;strong&gt;Bruce Dickinson&lt;/strong&gt; za nov projekt &lt;strong&gt;Three Tremors&lt;/strong&gt; namesto pokojnega &lt;strong&gt;Ronniea Jamesa Dia&lt;/strong&gt; dobil smeti v obliki &lt;strong&gt;Geoffa Tatea&lt;/strong&gt;. Iz tega lahko pridemo do zaključka, da so ene supergrupe večja zvočna greznica od drugih. &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/all-pigs-must-die&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;All Pigs Must Die&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/hostage-animal&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/apmd.jpg?itok=BFtOLLSd&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 06 Nov 2017 12:19:08 +0000</pubDate>
+ <dc:creator>Jovo</dc:creator>
+ <guid isPermaLink="false">11192 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Začetek konca!</title>
+    <link>http://www.profanity.si/reportaze/za%C4%8Detek-konca</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Če se normalni ljudje ob sobotah zvečer odpravljajo na raznorazna druženja s prijatelji, spoznavanja novih oseb (vsi vemo, kaj to pomeni) in pa na konzumiranje kemično pridelanih drog, katere jim dajejo več energije za ples (če se temu lahko tako reče), sta nam na drugi strani centra Ljubljane Dirty Skunks pripravila poslastico prvega razreda.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/reportaze/za%C4%8Detek-konca&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/DSCN3891.JPG?itok=7e-zgnmF&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-datum field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Datum:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2012-09-29T00:00:00+02:00&quot;&gt;Sat, 09/29/2012&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 30 Sep 2012 16:11:05 +0000</pubDate>
+ <dc:creator>Matevž Weinberger Kovačič</dc:creator>
+ <guid isPermaLink="false">2711 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

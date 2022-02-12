@@ -1,0 +1,18 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/4669/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Plagues Of Babylon</title>
+    <link>http://www.profanity.si/taxonomy/term/4669/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/4669/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Reportaža: Revolucija in solze</title>
+    <link>http://www.profanity.si/reportaze/reporta%C5%BEa-revolucija-in-solze</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;A se še komu zdi, da so Iced Earth šele pred kratkim izdali album Dystopia in skorajda par dni zatem Plagues Of Babylon? Čas pač leti, kadar trupe Jona Schafferja neusmiljeno širijo sporočilo upora prek več ali manj (no, bolj več kot manj – vsaj količinsko gledano) dobrih komadov te neustavljive ameriške power metal zasedbe. Dejansko so minila slaba tri leta med izidom Dystopie in Plagues …, v tem času pa so Iced Earth – če nič drugega – zamenjali vsaj bobnarja. Dvakrat. Trenutno je zdaj na tem položaju Jon Dette, ki ste ga lahko videli še s Slayer, Exodus, Testament itd.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/reportaze/reporta%C5%BEa-revolucija-in-solze&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/37%20ICED%20EARTH%20-%20naslovnica%20net.jpg?itok=4HDvR2Pi&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-datum field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Datum:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2014-01-24T00:00:00+01:00&quot;&gt;Fri, 01/24/2014&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 02 Feb 2014 11:40:25 +0000</pubDate>
+ <dc:creator>Ivan Cepanec</dc:creator>
+ <guid isPermaLink="false">5897 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

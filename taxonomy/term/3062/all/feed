@@ -1,0 +1,28 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/3062/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>iLSA</title>
+    <link>http://www.profanity.si/taxonomy/term/3062/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/3062/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>The Felon&#039;s Claw</title>
+    <link>http://www.profanity.si/recenzije/the-felons-claw</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;Ilsa&lt;/strong&gt; na naši strani ni novost, kajti dobra 3 leta nazaj smo jih že predstavili pri recenziji &lt;strong&gt;Intoxicantations&lt;/strong&gt; kot tudi pri split albumu s &lt;strong&gt;Seven Sisters Of Sleep&lt;/strong&gt;, kar pomeni, da ne boste deležni prav nobene uvodne predstavitve.&lt;/p&gt;
+&lt;p&gt;Torej &lt;strong&gt;Ilsa&lt;/strong&gt; ponujajo novost, ki sliši na ime &lt;strong&gt;The Felon&#039;s Claw&lt;/strong&gt;. Kakšne drastične spremembe ni za pričakovati, ker se vse bolj ali manj odvija v prepoznavnih vodah, katere smo že slišali v zgoraj navedenih izdajah.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/ilsa&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;iLSA&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/the-felons-claw&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/The%20Felon%27s%20Claw.jpg?itok=74d-JTwn&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 16 Jun 2015 08:25:03 +0000</pubDate>
+ <dc:creator>Matevž Weinberger Kovačič</dc:creator>
+ <guid isPermaLink="false">8049 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Intoxicantations</title>
+    <link>http://www.profanity.si/recenzije/intoxicantations</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Če v tem času niste še našli časa za poglabljanje v izdaje založbe A389 Recs., potem vam povem, da zamujate precej dobre glasbe različnih izvajalcev. Naj si bo to sludge, obarvano čaščenje zlih sil, imenovano Seven Sisters of Sleep, sanjavost, ki se skriva pri Anne, ali pa ponovno izdajanje kultnih skladb, kot so Kingdom of Heaven in Eighteen od Integrity. Skratka, ves čas je bil namen v tem, da vas približati k izdajam, ki imajo pomen in so več kot le dobre.&lt;/p&gt;
+&lt;p&gt;In sedaj, ko ste zamudili več kot preveč, so zlobne sile na A389 izdale novo glasbo, ki pa bo večini ponovno tuja.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/ilsa&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;iLSA&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/intoxicantations&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/Ilsa-Intoxicantations%20%282012%2C%20A389%20Recordings%29.jpg?itok=kNXrNmFD&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 16 Dec 2012 15:52:33 +0000</pubDate>
+ <dc:creator>Matevž Weinberger Kovačič</dc:creator>
+ <guid isPermaLink="false">3210 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

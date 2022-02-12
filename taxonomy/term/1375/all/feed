@@ -1,0 +1,45 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/1375/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Gary Holt</title>
+    <link>http://www.profanity.si/taxonomy/term/1375/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/1375/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Repentless</title>
+    <link>http://www.profanity.si/recenzije/repentless</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Kalifornijski kultni thrasherji/speed metalci &lt;strong&gt;Slayer&lt;/strong&gt; so od leta 2009, ko je izšel njihov predzadnji album &lt;strong&gt;World Painted Blood&lt;/strong&gt;, pa vse do danes preživeli dva huda udarca – prvi je odpustitev povratnika, a hkrati originalnega bobnarja &lt;strong&gt;Davea Lombarda&lt;/strong&gt;, bojda iz poslovnih razlogov, drugi pa smrt kitarista/tekstopisca &lt;strong&gt;Jeffa Hannemana&lt;/strong&gt;, ki ga je že nekaj let pred smrtjo najpogosteje nadomeščal kitarist zasedbe &lt;strong&gt;Exodus, Gary Holt&lt;/strong&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/slayer&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Slayer&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/repentless&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/2015-09-26-tolpa-bumov-slayer-repentless-46528.jpg?itok=eHrKoIcI&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 04 Oct 2015 17:07:15 +0000</pubDate>
+ <dc:creator>Ivan Cepanec</dc:creator>
+ <guid isPermaLink="false">8452 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Dawn Of The New Centurian</title>
+    <link>http://www.profanity.si/recenzije/dawn-of-the-new-centurian</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Ko smo pri poslušanju Exodus albuma Tempo Of The Damned slišali v komadu Scar Spangled Banner tisto nesmrtno vrstico &#039;&#039;I&#039;m no patriot, just a HATRIOT&#039;&#039;, si verjetno nismo mislili, da bo dobro desetletje kasneje vrli bojevnik ameriške thrash metal scene, Steve Zetro Souza, vodil bend prav s tem imenom. Vseeno njegov break-up z Exodus ni šel najbolje skozi, delovanje v Dublin Death Patrol s Chuckom Billyjem in drugimi (da ne omenjam projekta AC/DZ) pa se je – ne razumite me narobe, nimam nič proti DDP!&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/hatriot&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Hatriot&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/dawn-of-the-new-centurian&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/Hatriot-album-cover.jpg?itok=VbKETCTs&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 11 Jun 2014 09:59:35 +0000</pubDate>
+ <dc:creator>Ivan Cepanec</dc:creator>
+ <guid isPermaLink="false">6592 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Zagreb - are you ready for a war?!!</title>
+    <link>http://www.profanity.si/reportaze/zagreb-are-you-ready-for-a-war</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;em&gt;Report by: Korgül The Grosupljinator (guest in ghost writer)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Foto: Getty Images (&lt;a href=&quot;http://www.siol.net&quot;&gt;www.siol.net&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/reportaze/zagreb-are-you-ready-for-a-war&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/634733540512793451_tom_araya.jpg?itok=j5T6C_2r&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-datum field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Datum:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2012-06-08T00:00:00+02:00&quot;&gt;Fri, 06/08/2012&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 18 Jun 2012 15:01:36 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">2101 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Thrashfest Classics Part II</title>
+    <link>http://www.profanity.si/reportaze/thrashfest-classics-part-ii</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;em&gt;Uvod: Nenad Čekrlić&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Sepultura: Ivan Cepanec&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Video-posnetki: Primož Novak&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/reportaze/thrashfest-classics-part-ii&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/thrashfest.jpg?itok=SMiArVTd&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-datum field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Datum:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2011-12-13T00:00:00+01:00&quot;&gt;Tue, 12/13/2011&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 16 Dec 2011 10:57:31 +0000</pubDate>
+ <dc:creator>Andrej Čuk</dc:creator>
+ <guid isPermaLink="false">1130 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

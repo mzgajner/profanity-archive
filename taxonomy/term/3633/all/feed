@@ -1,0 +1,20 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/3633/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Laško</title>
+    <link>http://www.profanity.si/taxonomy/term/3633/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/3633/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Turn This World Upside Down</title>
+    <link>http://www.profanity.si/recenzije/turn-this-world-upside-down</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Moram priznati, da smo zadnja leta Slovenci kar produktiven narod, ker ne glede na žanrsko opredelitev (govorim za &#039;&#039;underground&#039;&#039;, ker izvajalci, kot so Zlatko, … izdajajo albume na pol leta – recimo) je v dobrem letu izšlo kar precej konkretnih izdaj.&lt;/p&gt;
+&lt;p&gt;V okviru enega leta smo bili priča novih albumov od Final Approach, Nikki Louder, The Canyon Observer, Within Destruction, …. skratka precej dobrot za malo državo.&lt;/p&gt;
+&lt;p&gt;In v morju dobrih izdaj pa so se po dolgem času pokazali slovenski &#039;&#039;zmetalizirani&#039;&#039; HC upi In The Crossfire.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/in-the-crossfire&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;In The Crossfire&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/turn-this-world-upside-down&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/In%20The%20Crossfire-Turn%20This%20World%20Upside%20Down%20%282013%2C%20Killing%20Production%20Records%29.jpg?itok=UPL1uMC6&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 12 May 2013 17:47:42 +0000</pubDate>
+ <dc:creator>Matevž Weinberger Kovačič</dc:creator>
+ <guid isPermaLink="false">4172 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

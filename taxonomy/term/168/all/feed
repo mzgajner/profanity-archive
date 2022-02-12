@@ -1,0 +1,18 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/168/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Lake of Tears</title>
+    <link>http://www.profanity.si/taxonomy/term/168/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/168/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Illwill</title>
+    <link>http://www.profanity.si/recenzije/illwill</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Novi studijski podvig švedskih Lake of Tears (ene izmed bolj prezrtih zasedb pod soncem metala, če hočete moje osebno mnenje) je definitivno najtrši album v njihovi skoraj dvajsetletni karieri in nikoli si nisem mislil, da bodo Lake of Tears (ki so v devetdesetih začeli v vodah doom metala, pozneje preskočili na nekaj, kar je bilo še najbolj podobno psihedeličnemu rocku, se spogledali z melanholičnim gothic metalom, se spet vrnili kot nenavadni Pink Floyd spin-off, razpadli, se čez nekaj let ponovno združili in zakorakali po črno tlakovani cesti metala) kdaj začeli igrati punk, toda Illwil &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/lake-of-tears&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Lake of Tears&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/illwill&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/Lake%20Of%20Tears%20-%20Illwill.jpg?itok=st0kxBy4&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 31 May 2011 20:37:39 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">195 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

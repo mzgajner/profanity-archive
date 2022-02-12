@@ -1,0 +1,18 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/4246/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Necrocracy</title>
+    <link>http://www.profanity.si/taxonomy/term/4246/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/4246/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>METALDAYS intervju: Exhumed</title>
+    <link>http://www.profanity.si/intervjuji/metaldays-intervju-exhumed</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;em&gt;Če si predstavljate, kako bi izpadlo, če bi Carcass nadaljevali s tem, kar so počeli na albumu Necroticism in postajali zgolj vse bolj ekstremni, bi Carcass z Exhumed imeli resnega tekmeca. Ameriški kvartet, samo oklicani &#039;&#039;gore metalci&#039;&#039; so tako prevzeli krvavi temelj Carcass in ga nadgradili v svoj, predvsem s thrashom in brutalnostjo glasbeni in liricistični izraz. Če so Carcass postajali vse bolj melodični, so Exhumed postajali vse bolj brutalni in agresivni. &lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/intervjuji/metaldays-intervju-exhumed&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/col6_1.png?itok=3XU8mMkv&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 03 Oct 2013 15:43:35 +0000</pubDate>
+ <dc:creator>Ivan Cepanec</dc:creator>
+ <guid isPermaLink="false">5129 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

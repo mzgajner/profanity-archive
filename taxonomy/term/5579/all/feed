@@ -1,0 +1,18 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/5579/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>In Vogue Records</title>
+    <link>http://www.profanity.si/taxonomy/term/5579/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/5579/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Being As An Ocean</title>
+    <link>http://www.profanity.si/recenzije/being-as-an-ocean</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Božji odposlanci &lt;strong&gt;Being As An Ocean&lt;/strong&gt; imajo za seboj zanimivo zgodovino. Pri prvencu &lt;strong&gt;Dear G-d&lt;/strong&gt; so nanizali dobro glasbo a slabo ideologijo (žal me božja volja ne interesira). Smer glasbe je definitivno šla v smer skupin &lt;strong&gt;Hundredth&lt;/strong&gt; ter &lt;strong&gt;Defeater &lt;/strong&gt;in je postopala po melodijah, ki so nam lajšale dušo. Tudi vokalno zadeva ni bila slaba, dobri kriki, malenkostno kruljenje in močni čisti vokalni.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/being-as-an-ocean&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Being As An Ocean&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/being-as-an-ocean&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/a1604301690_16.jpg?itok=jmhw3aka&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 10 Aug 2015 15:35:04 +0000</pubDate>
+ <dc:creator>Matevž Weinberger Kovačič</dc:creator>
+ <guid isPermaLink="false">8281 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

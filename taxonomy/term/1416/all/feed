@@ -1,0 +1,18 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/1416/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>tablete</title>
+    <link>http://www.profanity.si/taxonomy/term/1416/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/1416/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>End Time</title>
+    <link>http://www.profanity.si/recenzije/end-time</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Hura, še en band, ki se zanaša na staro slavo! Na kratko, Brutal Truth so mlelci jeder aus New York, ki so leta 1990 pričeli z ustvarjanjem zvočne jeze. Nato je za devetimi gorami, za devetimi leti in štirimi studijskimi albumi obstajala skupina, ki je razpadla. A kljub razpadu so vseeno ostali v srcih prebivalcev pravljičnih dežel, saj so bili na svojem področju dokaj samosvoji s svojimi nespodobnimi tehničnimi in kaotičnimi izlivi.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/brutal-truth&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Brutal Truth&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/end-time&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/Brutal%20Truth%20-%20End%20Time.jpg?itok=kbRgQUs9&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 23 Dec 2011 11:00:38 +0000</pubDate>
+ <dc:creator>Mitja Kralj</dc:creator>
+ <guid isPermaLink="false">1167 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

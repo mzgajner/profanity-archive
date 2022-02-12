@@ -1,0 +1,27 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/2995/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Holy Roar Records</title>
+    <link>http://www.profanity.si/taxonomy/term/2995/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/2995/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>What&#039;s Left Of Me</title>
+    <link>http://www.profanity.si/recenzije/whats-left-of-me</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Po 4-letni tišini se nazaj na področje melodičnega HCja vračajo More Than Life in verjamem, da ste glede tega precej navdušeni. Ampak, kaj se je zgodilo v 4 letih?&lt;/p&gt;
+&lt;p&gt;Leta 2010 so izdali precej poslušljiv album Love Let Me Go, in lahko rečem, da sem bi pri omenjeni izdaji precej navdušen nad njihovim igranjem in res sem pričakoval, da bo skupina v hitrem času dobila malo morje oboževalcev in bodo pri naslednji izdaji oz. v roku 5 let povsem pokvarjeni in razvajeni &#039;&#039;zvezdniki&#039;&#039;, ki bi marsikomu šli na živce.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/more-than-life&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;More Than Life&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/whats-left-of-me&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/More%20Than%20Life-What%27s%20Left%20Of%20Me%20%282014%2C%20Holy%20Roar%20Records%29.jpg?itok=yFgVrUh8&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 22 Jun 2014 10:23:17 +0000</pubDate>
+ <dc:creator>Matevž Weinberger Kovačič</dc:creator>
+ <guid isPermaLink="false">6647 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>split</title>
+    <link>http://www.profanity.si/recenzije/split-7</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Ponovno smo pri skupini Full of Hell, in ponovno je tukaj split, tokrat z evropskimi Calm the Fire, katere smo na Profanity.si že omenjali in recenzirali (pobrskajte po arhivu). Skupine nam posebej ni potrebno predstavljati, še posebej Full of Hell ne, ker vemo o čem bo govora (ali pač?!).&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/full-of-hell-calm-the-fire-0&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Full of Hell &amp;amp; Calm the Fire&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/split-7&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/Full%20of%20Hell%20%26%20Calm%20the%20Fire-Split%20%282012%2C%20Holy%20Roar%20Records%29.jpg?itok=-9dH4-39&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 02 Dec 2012 14:48:15 +0000</pubDate>
+ <dc:creator>Matevž Weinberger Kovačič</dc:creator>
+ <guid isPermaLink="false">3097 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/6647/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Lebanon Hanover</title>
+    <link>http://www.profanity.si/taxonomy/term/6647/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/6647/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Reportaža: Lebanon Hanover</title>
+    <link>http://www.profanity.si/reportaze/reporta%C5%BEa-lebanon-hanover</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Kdor preteklega vikenda ni preživel v &lt;strong&gt;Bohinjski Bistrici&lt;/strong&gt; na zimski ediciji največjega slovenskega metal festivala, je imel v petek v &lt;strong&gt;Kinu Šiška&lt;/strong&gt; možnost prisostvovati zelo zanimivemu, a na žalost nekoliko (pre)kratkemu nastopu berlinskega dark wave dua &lt;strong&gt;Lebanon Hanover&lt;/strong&gt;.   &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/reportaze/reporta%C5%BEa-lebanon-hanover&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/LHK%C5%A0.jpg?itok=bGCN53TE&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-datum field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Datum:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2019-11-29T00:00:00+01:00&quot;&gt;Fri, 11/29/2019&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 02 Dec 2019 00:32:12 +0000</pubDate>
+ <dc:creator>Rok Kodba</dc:creator>
+ <guid isPermaLink="false">12941 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

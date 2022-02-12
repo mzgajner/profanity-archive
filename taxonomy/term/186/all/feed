@@ -1,0 +1,28 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/186/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Human Remains</title>
+    <link>http://www.profanity.si/taxonomy/term/186/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/186/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>One Of Us Is The Killer</title>
+    <link>http://www.profanity.si/recenzije/one-of-us-is-the-killer</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Bend iz zvezne države New Jersey, The Dillinger Escape Plan, je ena tistih glasbenih entitet, ki je že na začetku svoje kariere uveljavila svojo moč z unikatnim in agresivnim glasbenim izrazom, ki je s prihajajočimi albumi in EP-ji postal osnova delovanja in razvoja marsikaterega novejšega benda, ki je skušal ali kopirati ali celo preseči omenjene vzornike. Že sam žanr &#039;&#039;mathcore&#039;&#039; je dovolj močan dokaz – če po tvoji glasbi poimenujejo nek nov žanr in gibanje v glasbenem svetu, veš da si storil nekaj pomembnega, če že ne unikatnega.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/the-dillinger-escape-plan&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;The Dillinger Escape Plan&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/one-of-us-is-the-killer&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/2013-06-29-tolpa-bumov-the-dillinger-escape-plan-one-of-us-is-the-killer-sumerian-records-2013-16638.jpg?itok=nWWb6f0o&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 28 Jun 2013 09:48:55 +0000</pubDate>
+ <dc:creator>Ivan Cepanec</dc:creator>
+ <guid isPermaLink="false">4501 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Noisear - Kratko in direktno!</title>
+    <link>http://www.profanity.si/intervjuji/noisear-kratko-in-direktno</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;em&gt;Kot se za grindcore bend spodobi, gre tudi pri Noisear za kratke skladbe, hitrost igranja in pa politična besedila. Sedaj se moramo vprašati, ali svet res potrebuje še eden bend, ki je podoben ostalim? O tem vas bo slušal prepričati Dorian Rainwater v intervjuju, dolgem kakor njihov album. Intervju je bil narejen po e-pošti in to v enem dnevu!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;MK: Pozdravljen! Za začetek nam predstavi Noisear in povej, zakaj naj &#039;&#039;ekstremisti&#039;&#039; izberejo vašo najnovejšo kreacijo, ki sliši na ime Subvert the Dominant Paradigm?&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/intervjuji/noisear-kratko-in-direktno&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/NoisearBand.jpeg?itok=47Bs93Rb&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 04 Jun 2011 09:06:06 +0000</pubDate>
+ <dc:creator>Matevž Weinberger Kovačič</dc:creator>
+ <guid isPermaLink="false">221 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

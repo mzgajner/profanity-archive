@@ -1,0 +1,26 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/1424/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Midnight</title>
+    <link>http://www.profanity.si/taxonomy/term/1424/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/1424/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Sweet Death and Ecstasy</title>
+    <link>http://www.profanity.si/recenzije/sweet-death-and-ecstasy</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;Midnight&lt;/strong&gt; je bend, ki mi je pri srcu. Preseneča me, da so kar naenkrat eksplodirali s svojim studijskih prvencem. Razlog presenečenja ni to, da bi plošča bila zanič; &lt;em&gt;&lt;strong&gt;Satanic Royalty&lt;/strong&gt;&lt;/em&gt; je naravnost odličen album, nenavadno se mi zdi zgolj, da folk nikakor ni opazil tega, da so &lt;strong&gt;Midnight&lt;/strong&gt; tudi predhodno imeli nabor izjemno močnih komadov (Black Rock &#039;n&#039; Roll je praktično himna). Oviro prvenca je vodja &lt;strong&gt;Athenar&lt;/strong&gt; dejansko preživel odlično, saj nas je takrat mnoge skrbelo, da ne bo prekosil svojih starih pesmi. Pa jih je.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/midnight&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Midnight&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/sweet-death-and-ecstasy&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/midnight.jpg?itok=4MtBt69g&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 27 Nov 2017 19:10:50 +0000</pubDate>
+ <dc:creator>Andrej Čuk</dc:creator>
+ <guid isPermaLink="false">11281 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Satanic Royalty</title>
+    <link>http://www.profanity.si/recenzije/satanic-royalty</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Švic, sleaze, distoržn - glavni (in pravzaprav edini) modus operandi ameriškega one-man metal čudeža Midnight. EP Farewell to Hell je Athenarja postavil na zemljevid underground metala (tip se je nenazadnje le domislil naziva Black Rock &#039;n Roll...), kratek posnetek, ki je v nekaj minutah kanaliziral vso energijo metala šole Venom, Motörhead etc. LP potemtakem ne bi smel biti nič slabega, ne? Pač še več boljšega, drži?&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/midnight&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Midnight&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/satanic-royalty&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/Midnight-Satanic-Royalty.jpg?itok=jonfegtz&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 28 Dec 2011 01:03:03 +0000</pubDate>
+ <dc:creator>Andrej Čuk</dc:creator>
+ <guid isPermaLink="false">1184 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

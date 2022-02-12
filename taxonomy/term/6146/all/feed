@@ -1,0 +1,18 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/6146/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Guts For Glory</title>
+    <link>http://www.profanity.si/taxonomy/term/6146/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/6146/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Fairy Tales</title>
+    <link>http://www.profanity.si/recenzije/fairy-tales</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Ko sem gledal ime skupine, sem si rekel : » Oho, tole bo pa žgalo kot krožni top uničevalca tankov A-10 Thunderbolt II, sekalo vsaj kot Gun Barrel, če že ne sami Sabaton, ter opevalo bruhanje topovskega ognja, tankovske preboje frontnih črt ter častilo plohe izstrelkov različnih kalibrov!«. No, ko sem prebral naslov plošče, sem si rekel: »No, ali pa tudi ne…« in moja domišljija je bila v trenutku, s potrojeno močjo vse gravitacijske sile Zemlje skupaj, prizemljena kot vesoljski samorog s sežganimi krili.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/guts-for-glory&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Guts For Glory&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/fairy-tales&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/Guts-For-Glory-Fairy-Tales.jpg?itok=Xj5qZMcR&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 15 Jan 2017 12:36:21 +0000</pubDate>
+ <dc:creator>Marko Lemaić</dc:creator>
+ <guid isPermaLink="false">10085 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

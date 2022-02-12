@@ -1,0 +1,21 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/3221/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Don Giovanni Records</title>
+    <link>http://www.profanity.si/taxonomy/term/3221/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/3221/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>California X</title>
+    <link>http://www.profanity.si/recenzije/california-x</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Verjetno vam pod tem imenom ne bo prav nič jasno in to povsem razumem, kajti meni osebno je še vedno tuje ne glede na to, da album poslušam že dober teden.&lt;/p&gt;
+&lt;p&gt;Prav tako pa tudi verjamem, da vam dela preglavice ime skupine, in seveda vprašanje, kdo sploh so California X in kaj lahko pričakujemo od njih?&lt;/p&gt;
+&lt;p&gt;Če si zadevo pogledamo pobližje.&lt;/p&gt;
+&lt;p&gt;Po prvem poslušanju se nisem osebno ozirala na to, kdo ali kaj je omenjena skupina, ker je bil album poslušljiv in nisem niti najmanj pričakovala, da si ga bom zavrtela ponovno.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/california-x&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;California X&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/california-x&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/California%20X-California%20X%20%282013%2C%20Don%20Giovanni%20Records%29.jpg?itok=9HGSeYuw&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 03 Feb 2013 19:21:26 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">3517 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

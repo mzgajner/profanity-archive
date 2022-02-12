@@ -1,0 +1,67 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/3099/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>špeh</title>
+    <link>http://www.profanity.si/taxonomy/term/3099/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/3099/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Arc</title>
+    <link>http://www.profanity.si/recenzije/arc</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Za trenutek odmaknite svoje zagnojene oči stran od računalniškega zaslona, kjer se vrtijo privlačnosti v obliki nadvse dekadentne pornografije, kjer nastopata dve osebi (ki sta po obrazih sodeč potomca ljubezenskega razmerja oseb, ki sta bili v zelo bližnji sorodstveni vezi) in njuna domača žival ter se zazrite skozi okno, kjer se pred vašimi očmi razkriva nadvse spektakularen prizor apokalipse.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/agoraphobic-nosebleed&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Agoraphobic Nosebleed&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/arc&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/nousblid.jpg?itok=dpJlPsaL&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 06 Mar 2016 11:54:47 +0000</pubDate>
+ <dc:creator>Mitja Kralj</dc:creator>
+ <guid isPermaLink="false">9026 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>INTERVJU: Russian Circles</title>
+    <link>http://www.profanity.si/intervjuji/intervju-russian-circles-0</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;em&gt;Čikaška trojica, ki jim ustvarjanje glasbene ekvivalence izgubljenosti v vesoljski apokalipsi ni tuje, se v nedeljo vračajo na slovenske odre s katerimi so se že večkrat ljubili. Tokrat jih vabi Kino Šiška v svoja topla nedrja in v dobrodošlico so dobili nekaj vprašanj, da so lahko vadili svojo slovenščino. Preberite spodaj, kaj pravi njihov basist, Brian Cook.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mitja Kralj: Poleg ostale glasbe, od kod črpate inspiracijo?&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/intervjuji/intervju-russian-circles-0&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/1001935_10153153147810492_1831632963_n_0.jpg?itok=D_A1YhnA&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 03 Apr 2015 07:52:41 +0000</pubDate>
+ <dc:creator>Mitja Kralj</dc:creator>
+ <guid isPermaLink="false">7812 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Miserable</title>
+    <link>http://www.profanity.si/recenzije/miserable</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;“Oči, oči, naredil sem nalogo, kdaj lahko gremo?”, je neučakano zadonelo iz otroške sobe, kjer je živel gostolasi prvorojenec Aleksander.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/bongripper&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;BONGRIPPER&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/miserable&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/BongripperMiserable2014.jpg?itok=JqxmoqHx&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 06 Aug 2014 13:59:32 +0000</pubDate>
+ <dc:creator>Mitja Kralj</dc:creator>
+ <guid isPermaLink="false">6862 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Estron</title>
+    <link>http://www.profanity.si/recenzije/estron</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Ta prasica zveni kot:&lt;/p&gt;
+&lt;p&gt;prasica&lt;/p&gt;
+&lt;p&gt;izredno masivna prasica&lt;/p&gt;
+&lt;p&gt;orgija masivnih prasic sredi kanjona&lt;/p&gt;
+&lt;p&gt;orgija masivnih prasic sredi kanjona v kateri se odvija rekonstrukcija vseh vojn v slow-motion posnetku&lt;/p&gt;
+&lt;p&gt;tvoja mat&lt;/p&gt;
+&lt;p&gt;plaz tankov s čustvenimi težavami&lt;/p&gt;
+&lt;p&gt;fafanje s strani črne luknje&lt;/p&gt;
+&lt;p&gt;umiranje fršterkarije&lt;/p&gt;
+&lt;p&gt;moj jok, ko mi Tegla ne vrača čustev&lt;/p&gt;
+&lt;p&gt;zvok, ki res ne pazi na dieto&lt;/p&gt;
+&lt;p&gt;zalivanje rož&lt;/p&gt;
+&lt;p&gt;nevihta sredi kitolova&lt;/p&gt;
+&lt;p&gt;kitolov&lt;/p&gt;
+&lt;p&gt;kit&lt;/p&gt;
+&lt;p&gt;kitova mast&lt;/p&gt;
+&lt;p&gt;orgija kitov&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/slomatics&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Slomatics&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/estron&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/Slomatics-Estron-Artwork.jpg?itok=IBT5lIdB&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 13 May 2014 06:52:52 +0000</pubDate>
+ <dc:creator>Mitja Kralj</dc:creator>
+ <guid isPermaLink="false">6431 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Wormhole Generator</title>
+    <link>http://www.profanity.si/recenzije/wormhole-generator</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Italija: dom slabih šoferjev, obupno nadležnega jezika, grozljivih turistov in na vrhu tega kupa gnojnosti, kot Sauronovo oko naokoli straši njihovo glasbeno področje, ki marsikateremu bitju, ki poseduje sposobnost sluha, povzroči ušesne tumorje.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/prehistoric-pigs&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Prehistoric Pigs&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/wormhole-generator&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/rsfp6d.jpg?itok=nvCzQGT2&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 02 Jan 2013 14:48:29 +0000</pubDate>
+ <dc:creator>Mitja Kralj</dc:creator>
+ <guid isPermaLink="false">3288 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

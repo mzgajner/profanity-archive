@@ -1,0 +1,103 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/543/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Mayhem</title>
+    <link>http://www.profanity.si/taxonomy/term/543/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/543/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Reportaža: De Mysteriis v Novi Gorici</title>
+    <link>http://www.profanity.si/reportaze/reporta%C5%BEa-de-mysteriis-v-novi-gorici</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Vsak cenjeni bralec, ki je pristal na tem naslovu, je verjetno seznanjen s kontroverznim ozadjem plošče De Myteriis Dom. Sathanas. V nasprotnem primeru spuščam spust v globine Googla, kjer so na to temo na voljo cele knjige, povsem resno. Ravno zato sem od večera, ko je plošča De Mysteriis zaživela v Novi Gorici, pričakoval izjemno veliko.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/reportaze/reporta%C5%BEa-de-mysteriis-v-novi-gorici&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/17800016_10210869270380301_9007639982121789769_n.jpg?itok=KSsPxzk6&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-datum field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Datum:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2017-04-07T00:00:00+02:00&quot;&gt;Fri, 04/07/2017&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 18 Apr 2017 20:46:20 +0000</pubDate>
+ <dc:creator>Andrej Čuk</dc:creator>
+ <guid isPermaLink="false">10466 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>De Mysteriis Dom Sathanas Alive</title>
+    <link>http://www.profanity.si/recenzije/de-mysteriis-dom-sathanas-alive</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;V zadnjem desetletju smo priča početju mnogih, predvsem velikih bendov, ki se odločijo proslaviti deseto, dvajseto ali recimo trideseto obletnico svoje najpomembnejše ali od fenov najbolj zaželene plošče, v sklopu česar na turneji po navadi omenjeno ploščo odigrajo v celoti. Tako so storili &lt;strong&gt;Metallica&lt;/strong&gt;, ki so odigrali celotni &lt;strong&gt;Master Of Puppets, Slayer&lt;/strong&gt;, ki so odpičili celotni &lt;strong&gt;Reign In Blood&lt;/strong&gt;, &lt;strong&gt;Megadeth&lt;/strong&gt; z albumom &lt;strong&gt;Rust In Peace&lt;/strong&gt; itd.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/mayhem&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Mayhem&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/de-mysteriis-dom-sathanas-alive&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/%D1%81over.jpg?itok=B6-4SfOR&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 23 Jan 2017 21:49:42 +0000</pubDate>
+ <dc:creator>Ivan Cepanec</dc:creator>
+ <guid isPermaLink="false">10117 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Reportaža: Brutal Assault 2015</title>
+    <link>http://www.profanity.si/reportaze/reporta%C5%BEa-brutal-assault-2015</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Vtise s festivala so strnili Jernej, Simon in Marko.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/reportaze/reporta%C5%BEa-brutal-assault-2015&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/ba2015_poster_en.jpg?itok=eZWwGsAZ&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-datum field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Datum:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2015-08-05T00:00:00+02:00&quot;&gt;Wed, 08/05/2015&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 16 Oct 2015 23:49:28 +0000</pubDate>
+ <dc:creator>Jernej Rejc</dc:creator>
+ <guid isPermaLink="false">8505 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Esoteric Warfare</title>
+    <link>http://www.profanity.si/recenzije/esoteric-warfare</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Po dolgem studijskem molku se &lt;em&gt;Mayhem&lt;/em&gt; vračajo na glasbeno bojišče. Prav gotovo se ne uklanjajo diktatu glasbenega trga, saj svojeglavo izdajajo albume v precej dolgih, nekje od 3 do 7 let trajajočih intervalih. Razumevanje njihovega nedavnega ustvarjanja se zato neizogibno vedno primerja s skupinino razburkano, krvavo in mitsko preteklostjo. Obdobje z &lt;em&gt;Euronymousom&lt;/em&gt; in romantična aura, ki ga obdaja, se zdi kot zelo oddaljena, burna adolescenca, ki jo je bend pustil za sabo.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/mayhem&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Mayhem&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/esoteric-warfare&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/1401206437_mayhem-esoteric-warfare.jpg?itok=-RN_rbPc&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 02 Jun 2014 09:09:54 +0000</pubDate>
+ <dc:creator>Jernej Rejc</dc:creator>
+ <guid isPermaLink="false">6550 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Metaldays – dan 2: Mayhem WTF?</title>
+    <link>http://www.profanity.si/reportaze/metaldays-%E2%80%93-dan-2-mayhem-wtf</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;Tekst: Primož, Ivan, Andrej, Gregor, Nenad&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fotke: Nina Grad @ Rockline.si&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Video: Primož Novak @ ProfanityTV&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/reportaze/metaldays-%E2%80%93-dan-2-mayhem-wtf&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/Exhumed%201%20dan.JPG?itok=lWUGbgCv&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-datum field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Datum:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2013-07-23T00:00:00+02:00&quot;&gt;Tue, 07/23/2013&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 02 Aug 2013 17:05:48 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">4694 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>13 Candles, pars octa: Consolamentum</title>
+    <link>http://www.profanity.si/clanki/13-candles-pars-octa-consolamentum</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Ni časa za spanje. Čeprav je bilo treba septembra nadoknaditi manjko avgustovske rubrike, bi bilo malo poceni, če bi se ena številka kar nekje &quot;izgubila v času&quot;. Edina logična rešitev potemtakem? Dvojna številka, itak. Prvi del obeh današnjih 13 Candles bo pokril velik del skupin, ki utelešajo bistvo rubrike, in služi kot smiselen povzetek preteklih številk, saj se je na Party San resnično zgrnila elita trenutne scene ekstremnega metala.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/clanki/13-candles-pars-octa-consolamentum&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/consolamentum.jpg?itok=P32DNLSx&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 13 Sep 2012 10:02:42 +0000</pubDate>
+ <dc:creator>Andrej Čuk</dc:creator>
+ <guid isPermaLink="false">2602 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>13 Candles, pars quinta: From the Dark Past</title>
+    <link>http://www.profanity.si/clanki/13-candles-pars-quinta-from-the-dark-past</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Spet je čas za uvodni članek. Vseeno je ta, ki ga trenutno berete na svetleči škatli, le malo drugačen od običajnega, saj je znaten del njegovega jedra bil napisan že prej. Kdor je spremljal rubriko v vsaj enemu izmed preteklih delov, je najbrž dobil občutek, za kaj gre pri 13 Candles, a morda ne ve, od kod so vsi ti zvoki prišli, kljub temu da so v dobi spleta ti podatki široko dostopni.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/clanki/13-candles-pars-quinta-from-the-dark-past&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/venomtaping.JPG?itok=6Ic_H4dQ&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 13 Jun 2012 21:58:52 +0000</pubDate>
+ <dc:creator>Andrej Čuk</dc:creator>
+ <guid isPermaLink="false">2079 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Transcendentalni Black Metal</title>
+    <link>http://www.profanity.si/clanki/transcendentalni-black-metal</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;Transcendentalni Black Metal&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Vizija apokaliptičnega humanizma&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Avtor:&lt;/p&gt;
+&lt;p&gt;Hunter Hunt-Hendrix&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Nekaj besed prevajalca&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/clanki/transcendentalni-black-metal&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/Transcendentalni%20Black%20Metal.jpg?itok=2dznq2Qk&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 05 Oct 2011 10:12:12 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">784 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>METAL MEKA – WACKEN OPEN AIR 2011 - 3. DAN</title>
+    <link>http://www.profanity.si/reportaze/metal-meka-%E2%80%93-wacken-open-air-2011-3-dan</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;... in je prav težko najti čas za kosilo. Še dobro, da tekoče žemljice prodajajo po številnih šankih in tudi med publiko. Za dobro jutro so oder zavzele Girlschool. In bile so prav prijetna budnica. Čeprav tete niso več v cvetu mladosti, zgledajo še vedno hudo dobro. Pa jih ni le lepo gledat, ker bejbe obvladajo. Kot je rekel modrec Lemmy – igrajo bolje kot veliko moških bandov. Imajo ogromno energije, ki se je prenesla na vse v šotoru. Lepo za pogledat in poslušat.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/reportaze/metal-meka-%E2%80%93-wacken-open-air-2011-3-dan&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/wacken%20188%20dan%203.jpg?itok=MFbN8xlH&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-datum field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Datum:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2011-08-07T00:00:00+02:00&quot;&gt;Sun, 08/07/2011&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 26 Aug 2011 16:46:30 +0000</pubDate>
+ <dc:creator>Petra Jerina</dc:creator>
+ <guid isPermaLink="false">618 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Jarboe</title>
+    <link>http://www.profanity.si/clanki/jarboe</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;I Maska&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/clanki/jarboe&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/Jarboe_0.jpg?itok=UDjIQeRE&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 08 Jul 2011 09:39:49 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">414 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

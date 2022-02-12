@@ -1,0 +1,19 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/5178/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Black Diamond</title>
+    <link>http://www.profanity.si/taxonomy/term/5178/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/5178/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Reportaža: METALDAYS dan 3</title>
+    <link>http://www.profanity.si/reportaze/reporta%C5%BEa-metaldays-dan-3</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;em&gt;Reportažo smo sestavili Ivan, Jernej, Petra in Marko.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Reportaža, ki jo bomo razdelili na 5 delov glede na 5 koncertnih dni, ne bo pokrila vseh bendov. Vsekakor ne more preseči sprotnih objav obiskovalcev, ki so prost dostop do Wi-Fi-ja in moderne telefone izkoriščali na vsakem koraku. Mogoče bomo podali kakšen video link, vsekakor veliko fotk (nekaj izbranih pod tekstom, večino pa na našem Facebook profilu, ker jih je res ogromno).&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/reportaze/reporta%C5%BEa-metaldays-dan-3&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/00%20NASLOVNICA_0.jpg?itok=wLcTeVie&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-datum field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Datum:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2014-07-23T00:00:00+02:00&quot;&gt;Wed, 07/23/2014&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 14 Aug 2014 16:20:30 +0000</pubDate>
+ <dc:creator>Ivan Cepanec</dc:creator>
+ <guid isPermaLink="false">6895 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

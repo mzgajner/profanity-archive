@@ -1,0 +1,18 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/4543/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>windows 7</title>
+    <link>http://www.profanity.si/taxonomy/term/4543/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/4543/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>2003 Deluxe Edition</title>
+    <link>http://www.profanity.si/recenzije/2003-deluxe-edition</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Čemu recenzija več kot deset let starega albuma, če se pa tukaj trudimo z ažurnostjo in recenziramo album v roku dveh let po izidu? Mar se nam je v Profanity ekipi totalno strgalo ali se za to recenzijo skriva nekaj več? Nekaj še nevidenega? Ali mogoče … neslišanega? Ali oboje? Stvar je v tem, da ta CD uživa že več kot dekado obstoja, a še ni doživel recenzije vredne svojega slovesa. Pogledal sem po vseh možnih straneh, kot so Blabbermouth, Decibel, Metal Hammer, Terrorizer in podobnih, a Britannice ni bilo nikjer. Sedaj se zagotovo sprašujete, zakaj je temu tako. Mar je svet ponorel?&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/encyclopedia-britannica&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Encyclopedia Britannica&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/2003-deluxe-edition&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/e%20britanica.jpg?itok=BZ3qC3kP&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 14 Dec 2013 10:32:20 +0000</pubDate>
+ <dc:creator>Mitja Kralj</dc:creator>
+ <guid isPermaLink="false">5632 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

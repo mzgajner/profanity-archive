@@ -1,0 +1,19 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/2476/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>solza</title>
+    <link>http://www.profanity.si/taxonomy/term/2476/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/2476/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Red Fang in telefonske govorilnice</title>
+    <link>http://www.profanity.si/intervjuji/red-fang-in-telefonske-govorilnice</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;em&gt;Red Fang, ameriška stonerjada, katerih ime se širi po svetu, kot se članom skupine šririjo brade. Sicer imajo do sedaj zunaj samo dva albuma, a vseeno polnijo dvorane po vseh vaseh, za kar se zahvaljujejo svojim videospotom. Z basistom/vokalistom Aaronom Beamom sva sedela v backstagu Generalmusikdirektiona v Grazu, kjer so nastopali na ta večer (&lt;a href=&quot;http://profanity.si/reportaze/dawn-of-the-living-beards&quot;&gt;reportaža&lt;/a&gt;) in drug drugemu globoko zrla v oči.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dimitry Krol: Začnimo z generičnim vprašanjem. Kako kaj napreduje turneja?&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/intervjuji/red-fang-in-telefonske-govorilnice&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/rectalblessing_0.png?itok=_22asRFD&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 20 Aug 2012 16:00:04 +0000</pubDate>
+ <dc:creator>Mitja Kralj</dc:creator>
+ <guid isPermaLink="false">2446 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

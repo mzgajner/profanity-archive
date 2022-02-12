@@ -1,0 +1,18 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/2719/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Deaf Havana</title>
+    <link>http://www.profanity.si/taxonomy/term/2719/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/2719/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Beg, Borrow or Steal EP</title>
+    <link>http://www.profanity.si/recenzije/beg-borrow-or-steal-ep</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Rock se je v preteklosti precej spremenil in hkrati pridobil kar precej podvej in tako že v poznih 70-ih oz. zgodnjih 80-ih dobil novo obliko - in sicer alternativnega rocka. Sicer ni uspeval že v svojih zgodnjih letih, ampak se je nekako najbolj uveljavil v 90-ih, ko so na sceno v večini prihajale grunge skupine. Ne glede na to ali govorimo o grunge zvrsti ali pa o alternativni rock skupini, koncu koncev je zadeva praktično enaka, z neizpodbitnim dejstvom, da se je od samega začetka sam po sebi preoblikoval in v današnjih časih ima omenjena zvrst povsem drugačno podobo, kot pa npr.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/manhattan-coast&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Manhattan Coast&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/beg-borrow-or-steal-ep&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/Manhattan%20Coast-Manhattan%20Coast-Beg%2C%20Borrow%20or%20Steal%20%282012%2C%20Samozalo%C5%BEba%29.jpg?itok=I7yQMEp8&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 07 Oct 2012 18:27:02 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">2754 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

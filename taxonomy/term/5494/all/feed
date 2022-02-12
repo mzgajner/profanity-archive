@@ -1,0 +1,19 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/5494/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>moška ljubezen</title>
+    <link>http://www.profanity.si/taxonomy/term/5494/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/5494/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Ooral Sea</title>
+    <link>http://www.profanity.si/recenzije/ooral-sea</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Ooral Sea sta glasbeni duo iz Krškega. Sestavljata ga Ignac (oz. Slavc) na kitari ter vokalu in Uroš (oz. Bufo) na bobnih. Nekaj mesecev nazaj sta izdala album, ki se prav tako imenuje Ooral Sea. Album vsebuje 8 pesmi in mi je bil zelo všeč. Večina pesmi je dobrih in zato mi je album všeč. Igrata garažni rock, stoner rock, grunge in ostale zvrsti, ki sem jih pobral iz drugih recenzij za ta album. Album je zabaven in ima svetlo naslovnico, na kateri so obrazi. Naslovnica mi je všeč.&lt;/p&gt;
+&lt;p&gt;Prav, malo resnosti. Dejanska recenzija:&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/ooral-sea&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Ooral Sea&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/ooral-sea&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/a0967562455_16%20%281%29.jpg?itok=A8awK_yN&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 02 Jul 2015 06:43:35 +0000</pubDate>
+ <dc:creator>Mitja Kralj</dc:creator>
+ <guid isPermaLink="false">8121 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/1463/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Cataract</title>
+    <link>http://www.profanity.si/taxonomy/term/1463/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/1463/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Atheos</title>
+    <link>http://www.profanity.si/recenzije/atheos</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;V času ukinjanja spletnih strani nam kot ljubiteljem glasbe povzroča težave dejstvo, kako priti do nove glasbe, novih skupin in novih informacij. Seveda je postalo vse skupaj moteče še posebej, ker se je začel vmešavati FBI in določene izdelke je trenutno nemogoče dobiti. Ampak seveda, roka pravica ne seže tako daleč kot iznajdljivost skupin, ki kljub vsemu z veseljem dodelijo svoje kreacije manjšini ali množici. Govora je seveda o internetni strani Bandcamp.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/skinfather&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Skinfather&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/atheos&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/Skinfather-Atheos%20%28Samozalo%C5%BEba%2C%202012%29.jpg?itok=lhEDCodG&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 25 Mar 2012 07:02:48 +0000</pubDate>
+ <dc:creator>Matevž Weinberger Kovačič</dc:creator>
+ <guid isPermaLink="false">1632 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Vesuvius </title>
+    <link>http://www.profanity.si/recenzije/vesuvius</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Z novim začetkom leta  se je začelo tudi novo leto izdaj. In med prvimi je to definitivno Vesuvius. Fantje iz zasedbe Creatures so nam že v preteklih letih ponudili ubijalske albume, na primer I, Lucifer iz leta 2009, potem še super izdelek iz 2010, naslovljen Salvation. Na leto gospodovo 2012 pa nam ponujajo novo kolekcijo vražjih skladb in jeznih besedil.&lt;/p&gt;
+&lt;p&gt;Torej, pri prvem upanju, da so Creatures ostali zvesti svojim koreninam in da bodo preigravali HC na način težkih skupin ala Shattered Realm, Cataract, … in da bodo nadgradili svoje predhodne albume.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/creatures&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Creatures&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/vesuvius&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/Creatures-Vesuvius%20%282012%2C%20Twelve%20Gauge%20Records%29.jpg?itok=cTr3Xf3c&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 08 Jan 2012 18:51:07 +0000</pubDate>
+ <dc:creator>Matevž Weinberger Kovačič</dc:creator>
+ <guid isPermaLink="false">1229 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

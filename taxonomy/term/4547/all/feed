@@ -1,0 +1,19 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/4547/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>My Fictions</title>
+    <link>http://www.profanity.si/taxonomy/term/4547/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/4547/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>When You Are Close I Am Gone</title>
+    <link>http://www.profanity.si/recenzije/when-you-are-close-i-am-gone</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Kot napovedano smo pri novi izdaji skupine The Saddest Landscape, pri kateri ji tokrat pomagajo My Fictions.&lt;/p&gt;
+&lt;p&gt;Obe so po svoje polne kričečih emocij in obe so si žanrsko podobne, tako da niti ne mislim izgubljati besed pri My Fictions, ker praktično ne boste slišali prav nič novega. Pri The Saddest Landscape pa do sedaj že lahko sklepate, da so postali nekakšna stalnica na naši strani, ker smo jih v zadnjih dveh letih omenjali večkrat v novicah in že recenzirali 4 njihove izdaje (res je, sem oboževalec).&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/the-saddest-landscape-my-fictions&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;The Saddest Landscape &amp;amp; My Fictions&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/when-you-are-close-i-am-gone&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/The%20Saddest%20Landscape%20%26%20My%20Fictions-When%20Your%20Are%20Close%20I%20Am%20Gone%20%282013%2C%20Topshelf%20Records%29.jpg?itok=b9Z0oLNK&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 15 Dec 2013 09:43:00 +0000</pubDate>
+ <dc:creator>Matevž Weinberger Kovačič</dc:creator>
+ <guid isPermaLink="false">5634 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>
