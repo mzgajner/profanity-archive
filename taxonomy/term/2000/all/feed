@@ -1,0 +1,19 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/2000/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>At the Soundless Dawn</title>
+    <link>http://www.profanity.si/taxonomy/term/2000/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/2000/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>V objemu atmosfere</title>
+    <link>http://www.profanity.si/intervjuji/v-objemu-atmosfere</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Država, kjer se o nogometu govori na vsaki 2 minuti, o visoki modi vsako minuto in o ljudeh, ki so obsedeni s svojo &#039;&#039;lepoto&#039;&#039; na vsakih 30 sekund. Seveda je govora o državi, ki nam je ponudila pizzo, raznorazne testenine in pa nogometni klub AC Milan, Italija!!! &lt;em&gt;(Ej, kaj pa Juve?!! - op. ur.)&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;Že v preteklosti nam je Italija ponudila ogromno dobrih skupin različnih žanrov, ampak dejstvo pa je, da se v večini niste zavedali, da nam lahko ponudijo tudi tako imenovane post metal skupine, za katere so v večini odgovorni Neurosis, Isis, Cult of Luna, …&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/intervjuji/v-objemu-atmosfere&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/Andrea%20Violante%20%28At%20the%20Soundawn%29.jpg?itok=dEmQB-UG&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 29 Apr 2012 05:53:37 +0000</pubDate>
+ <dc:creator>Matevž Weinberger Kovačič</dc:creator>
+ <guid isPermaLink="false">1826 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

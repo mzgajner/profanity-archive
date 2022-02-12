@@ -1,0 +1,19 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/1014/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Goreguts</title>
+    <link>http://www.profanity.si/taxonomy/term/1014/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/1014/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>History Repeats</title>
+    <link>http://www.profanity.si/recenzije/history-repeats</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Razumel bi, da določeni … oz. bendi sploh snemajo album priredb z namenom, da popestrijo svoj studijski izdelek in pri tem predstavijo morebitne bisere nekih davnih časov, zvrsti ali obdobij, ki so a) vplivali na dotični bend b) ki so jih takrat spregledali in zdaj bend hoče opozoriti na njih ali c) ki jih verjetno res nihče ne pozna.&lt;/p&gt;
+&lt;p&gt;V slučaju b) in c) lahko napišem, da je to najbolj primerno oz. najbolje storil Fenriz, ko je na zadnjih par ploščah od Darkthrone vedno podal tudi seznam bendov, ki bi jih morali preveriti (da ne omenjam, da podobno počne na svojem MySpace blogu).&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/dying-fetus&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Dying Fetus&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/history-repeats&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/Dying-Fetus-History-Repeats-EP.png?itok=OzrHKQHE&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 10 Oct 2011 14:49:30 +0000</pubDate>
+ <dc:creator>Ivan Cepanec</dc:creator>
+ <guid isPermaLink="false">824 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

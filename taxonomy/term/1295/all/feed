@@ -1,0 +1,26 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/1295/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Rhapsody of Fire</title>
+    <link>http://www.profanity.si/taxonomy/term/1295/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/1295/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>In Somniphobia</title>
+    <link>http://www.profanity.si/recenzije/in-somniphobia</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;V najnovejšem glasbenem izdelku japonskih Sigh smo priča takšnemu kaosu in takšni groteski, da se vprašanje, kaj zadevo sploh drži skupaj, postavlja kar samo od sebe. Mogoče so to droge, mogoče kakšni zapleteni algoritmi, mogoče kaj povsem drugega. Kdo ve? Jaz vsekakor ne. Vendar pa In Somniphobia vsemu zvočnemu kaosu navkljub drži pregovorno vodo. Problem leži v tem, da se do skrivnosti tega albuma ne bomo dokopali prek glasbene kritike, temveč bi se lahko kvečjemu preko teorije groteske, o kateri pa si avtor teh vrstic ne upa kaj preveč pametovati.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/sigh&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Sigh&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/in-somniphobia&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/Sigh%20-%20In%20Somniphobia.jpg?itok=KRiUiM6V&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 14 Mar 2012 19:30:40 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">1571 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Agony</title>
+    <link>http://www.profanity.si/recenzije/agony</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Kombinacija metala in orkestra vsekakor ne predstavlja nobene glasbene novitete; je pa res, da se je ta tendenca znotraj death metala pričela pojavljati sorazmerno pozno, saj... dajmo, priznajmo si, dobršen del norveškega black metala bi zaradi svoje pompoznosti že v prvi polovici devetdesetih uporabljal zbore in orkestre, če bi si jih le lahko privoščil. Pa si jih ni. Kar je verjetno lahko samo dobro (saj veste: mladost – norost).&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/fleshgod-apocalypse&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Fleshgod Apocalypse&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/agony&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/Fleshgod%20Apocalypse%20-%20Agony.jpg?itok=8_ycw-xE&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 04 Dec 2011 15:45:59 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">1079 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

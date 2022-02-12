@@ -1,0 +1,19 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/5611/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Barbatos</title>
+    <link>http://www.profanity.si/taxonomy/term/5611/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/5611/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Straight Metal War</title>
+    <link>http://www.profanity.si/recenzije/straight-metal-war</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Spet je tist del leta, ko iz Japonske ven prileti nov kup umazanega black/speed metala (na vinilu, se razume). Itak je 50% verjetnost, da za novim naborom dotične glasbe stoji Yasuyuki Suzuki, v katerikoli obliki, drugi stalni krivec pa je vodja kultnih Sabbat, Gezol.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/barbatos&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Barbatos&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/straight-metal-war&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/straightmetalwar.jpg?itok=ecV-tVBR&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 07 Sep 2015 19:50:45 +0000</pubDate>
+ <dc:creator>Andrej Čuk</dc:creator>
+ <guid isPermaLink="false">8363 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

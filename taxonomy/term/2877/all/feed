@@ -1,0 +1,18 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/2877/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Caspian</title>
+    <link>http://www.profanity.si/taxonomy/term/2877/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/2877/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Reportaža: Ekstaza odsotnih melodij</title>
+    <link>http://www.profanity.si/reportaze/reporta%C5%BEa-ekstaza-odsotnih-melodij</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Sobota, od jutra do večera precej dolgočasna in v želji po poležavanju in sproščanju ob televiziji. Verjetno si je večina tako tudi priredila svoj sobotni večer oz. dan. V celem dnevu ponovno pregledati celotno trilogijo Gospodarja prstanov, ali pa še bolje, trilogijo Botra. Če pa ste bili eni izmed tistih, ki niste zdržali pred TV-ekranom in ste si zaželeli nekaj drugačnega, ste se odpravili v mesto Metelkove, kjer ste se nahajali v centru slovenske subkulture.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/reportaze/reporta%C5%BEa-ekstaza-odsotnih-melodij&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/FSCN4141.JPG?itok=AdvJeAUN&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-datum field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Datum:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2012-11-03T00:00:00+01:00&quot;&gt;Sat, 11/03/2012&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 04 Nov 2012 18:32:18 +0000</pubDate>
+ <dc:creator>Matevž Weinberger Kovačič</dc:creator>
+ <guid isPermaLink="false">2929 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

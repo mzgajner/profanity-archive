@@ -1,0 +1,48 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/2448/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Travis Ryan</title>
+    <link>http://www.profanity.si/taxonomy/term/2448/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/2448/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Death Atlas</title>
+    <link>http://www.profanity.si/recenzije/death-atlas</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;em&gt;Najebat ćeš.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;I ti ćeš najebati.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Svi ćete da najebete.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Kot je rekel &lt;strong&gt;Gojko Sisa &lt;/strong&gt;v kultnem filmu &lt;strong&gt;Munje&lt;/strong&gt;. Bolj poetično to izpade takole:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;»We deserve everything that&#039;s coming&lt;br /&gt;
+	We took this world to our graves«&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/cattle-decapitation&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Cattle Decapitation&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/death-atlas&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/2019-12-17-cattle-decapitation-death-atlas-metal-blade-2019-107466.jpg?itok=YzsVmBam&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 05 Jan 2020 16:47:22 +0000</pubDate>
+ <dc:creator>Ivan Cepanec</dc:creator>
+ <guid isPermaLink="false">13008 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Reportaža: Tyrants Of Death</title>
+    <link>http://www.profanity.si/reportaze/reporta%C5%BEa-tyrants-of-death</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Tokrat seveda kot glavni bend turnejske karavane Tyrants of Death, v sklopu katere so k nam prišli še Cattle Decapitation, Abiotic, Monument of Misantrophy ter še eni, ki jih zaradi intervjuvanja nismo uspeli ujeti.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/reportaze/reporta%C5%BEa-tyrants-of-death&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/41%20TOD.jpg?itok=xkmJVN9Z&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-datum field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Datum:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2016-03-07T00:00:00+01:00&quot;&gt;Mon, 03/07/2016&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 13 Mar 2016 16:16:57 +0000</pubDate>
+ <dc:creator>Ivan Cepanec</dc:creator>
+ <guid isPermaLink="false">9059 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Results</title>
+    <link>http://www.profanity.si/recenzije/results</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Projekti, ki običajno združujejo prominentna imena na določeni sceni, včasih izpadejo super, včasih pa niti ne. Ker običajno prav prominentni protagonisti delujejo učinkovito v svojem matičnem bendu in se zdi, da čim jih postaviš v drugo glasbeno okolje in kolektiv, svoje magične moči kar zgubijo.&lt;/p&gt;
+&lt;p&gt;Na srečo, se to ni zgodilo zasedbi Murder Construct.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/murder-construct&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Murder Construct&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/results&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/Murder-Construct-Results-e1340915870416.jpg?itok=zQI2tYKN&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 06 Sep 2012 16:50:59 +0000</pubDate>
+ <dc:creator>Ivan Cepanec</dc:creator>
+ <guid isPermaLink="false">2568 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Monolith Of Inhumanity</title>
+    <link>http://www.profanity.si/recenzije/monolith-of-inhumanity</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Se spominjate scene iz filma Odiseja 2001, v kateri opice s pomočjo izvenzemeljskega monolita postanejo inteligentna bitja in s tem (kako pljuvajoče v face kreacionistov!) postavijo začetek poti razvoja človeštva?&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/cattle-decapitation&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Cattle Decapitation&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/monolith-of-inhumanity&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/Cattle-Decapitation-Monolith-of-Humanity.jpg?itok=I2Ow-eRE&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 15 Aug 2012 09:54:10 +0000</pubDate>
+ <dc:creator>Ivan Cepanec</dc:creator>
+ <guid isPermaLink="false">2409 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/660/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Norge</title>
+    <link>http://www.profanity.si/taxonomy/term/660/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/660/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>The Psyke Project - od stranskega projekta do psiKotičnega benda</title>
+    <link>http://www.profanity.si/intervjuji/the-psyke-project-od-stranskega-projekta-do-psikoti%C4%8Dnega-benda</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;em&gt;V času moderne glasbe in ponovno modernih sončnih Ray Ban očal, so na prag prepoznavnosti končno prišli skandinavski The Psyke Project in ne The Side Project. Na vprašanja kdo, kaj, zakaj ter ali so Neurosis boljši od Isis, v nadaljevanju …&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;MK: Najprej bi se ti zahvalil, ker si si vzel čas za tale hiter intervju, pa če kar greva v globine, predstavi se našim bralcem kdo, zakaj in kateri inštrument si si izbral za igranje v The Psyke Project?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;MN: Vsem skupaj najprej en lep pozdrav. Sem Martin in sem vokalist v skupini The Psyke Project.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/intervjuji/the-psyke-project-od-stranskega-projekta-do-psikoti%C4%8Dnega-benda&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/Martin%20Nielskov%20%28The%20Psyke%20Project%29.jpg?itok=xw1kfhwA&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 11 Aug 2011 22:08:57 +0000</pubDate>
+ <dc:creator>Matevž Weinberger Kovačič</dc:creator>
+ <guid isPermaLink="false">546 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

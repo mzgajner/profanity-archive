@@ -1,0 +1,26 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/2389/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Nick Holmes</title>
+    <link>http://www.profanity.si/taxonomy/term/2389/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/2389/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Reportaža: Paradise Lost v Šiški</title>
+    <link>http://www.profanity.si/reportaze/reporta%C5%BEa-paradise-lost-v-%C5%A1i%C5%A1ki</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Na ta halloweenasto medel večer je vse izgledalo, kot da cel svet zanima izključno in samo televizor. Ker mi je bilo za padajoče Avstrijce hudo vseeno, sem se mnogo bolj veselil koncerta kultnega goth oz. doom metal benda, Paradise Lost. Zakaj? Deloma zato, ker sem jih sebi v sramoto iz čistega debilizma uspel zgrešiti letos na Metalcampu, obenem pa tudi zato, ker sem se tolažil, da bodo &quot;v dvorani itak boljši&quot;, četudi jim ni prav nič manjkalo, ko sem jih videl na odprtem.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/reportaze/reporta%C5%BEa-paradise-lost-v-%C5%A1i%C5%A1ki&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/paradiselost.jpg?itok=Reewvjed&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-datum field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Datum:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2012-10-14T00:00:00+02:00&quot;&gt;Sun, 10/14/2012&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 23 Oct 2012 21:16:39 +0000</pubDate>
+ <dc:creator>Andrej Čuk</dc:creator>
+ <guid isPermaLink="false">2861 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Tragic Idol</title>
+    <link>http://www.profanity.si/recenzije/tragic-idol</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Paradise Lost so v svoji karieri šli skozi mnogo sprememb. Iz death/doom metala v gothic metal. Iz gothic metala v nežne rockerske/elektronske vode. Leta 2005 se je skupina odločila za povratek v metalske vode. Tako so se nadgrajevali do albuma Faith Divides Us – Death Unites Us. Po treh letih so se Paradise Lost vrnili, logično s svojim značilnim gotsko metalskim stilom, in sicer z albumom Tragic Idol.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/paradise-lost&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Paradise Lost&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/tragic-idol&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/424634_10150532819708806_398653540_n.jpg?itok=xrVMJAZA&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 30 Jul 2012 12:18:54 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">2324 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

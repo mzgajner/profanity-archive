@@ -1,0 +1,26 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/2918/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Upon a Burning Body</title>
+    <link>http://www.profanity.si/taxonomy/term/2918/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/2918/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Reportaža: Of Melodies and Breakdowns, part 1</title>
+    <link>http://www.profanity.si/reportaze/reporta%C5%BEa-of-melodies-and-breakdowns-part-1</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Pot nas je tokrat usmerila (spet) na Dunaj. Samo dogajanje se je odvijalo v Gasometru, ki je v preteklosti gostil marsikatero veliko ime v metal sceni. V našem primeru so to bili Machine Head, Slayer, Heaven Shall Burn, pa še kaj bi se našlo. Tokrat je bila dvorana Gasometra, ki sprejme okoli 3000 ljudi, rezervirana za Trivium, As I LayDying, Caliban in Upon a Burning Body. Kljub temu, da je bil balkon dvorane zaprt, se je obiskovalcev kar trlo. V primeru zaprtega balkona se lahko v dvorani zbere dobrih 2000 obiskovalcev.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/reportaze/reporta%C5%BEa-of-melodies-and-breakdowns-part-1&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/tumblr_m6r5suBJxN1qzxlbn.jpg?itok=v1lgYju5&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-datum field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Datum:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2012-11-14T00:00:00+01:00&quot;&gt;Wed, 11/14/2012&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 19 Nov 2012 14:15:41 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">3027 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Red. White. Green.</title>
+    <link>http://www.profanity.si/recenzije/red-white-green</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Moram priznati, da je prav nenavadno, ko se pod okriljem Sumerian Records najde kakšna skupina, ki ni v aktualnih »djent« vodah ali nečem modernem in tehničnem obenem. Upon a Burning Body so vsekakor moderni, a se ne ponašajo s kakšno pretirano tehniko, kot recimo bratje na založbi, After the Burial ali Born of Osiris.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/upon-a-burning-body&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Upon a Burning Body&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/red-white-green&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/4bb0fbe62bb3.jpg?itok=jUQLz227&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 13 Nov 2012 00:04:06 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">2987 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

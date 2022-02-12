@@ -1,0 +1,18 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/2876/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Architects</title>
+    <link>http://www.profanity.si/taxonomy/term/2876/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/2876/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Metalcore Mayhem</title>
+    <link>http://www.profanity.si/reportaze/metalcore-mayhem</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Ob vstopu se mi je še kako znana dvorana zdela popolnoma drugačna, saj je bila že v pričakovanju prve zasedbe nabito polna. Med obrazi skoraj nobenega znanega, publika pa se je povečini izkazala za srednješolsko, sicer z močnim poudarkom na nežnejši spol. Na tako polnem klubskem koncertu nisem bil že vrsto let, dejstvo, da popularnost težke glasbe skozi čas niha pa se metalcore populacije očitno niti malo ne dotakne.  Za nameček pa so se trije žareči kremplji energijske pijače Monster nad šankom kot nalašč poklapali z nenavadno obarvano množico.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/reportaze/metalcore-mayhem&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/architects-while-she-sleeps-heights-ljubljana-28102012-vstopnica-ticket.jpg?itok=PzasRxDj&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-datum field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Datum:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2012-10-28T00:00:00+02:00&quot;&gt;Sun, 10/28/2012&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 31 Oct 2012 17:40:22 +0000</pubDate>
+ <dc:creator>Andrej Čuk</dc:creator>
+ <guid isPermaLink="false">2914 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

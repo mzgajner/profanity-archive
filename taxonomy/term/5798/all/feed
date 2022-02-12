@@ -1,0 +1,26 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/5798/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Frontiers Music</title>
+    <link>http://www.profanity.si/taxonomy/term/5798/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/5798/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>II</title>
+    <link>http://www.profanity.si/recenzije/ii-2</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Ko sem prvič na hitro skozi ušesa spustil tole ploščo, se mi je najprej za uho &#039;zataknilo&#039; pevčevo petje. Zvenelo je dobro in zelo znano. Po ponovnem poslušanju sem bil že prepričan, da sem glas prepoznal in se vprašal, mar ne gre za skupino, v kateri poje &lt;strong&gt;Rick Altzi&lt;/strong&gt; iz &lt;strong&gt;Masterplan&lt;/strong&gt;. No, kakor koli, moje uho je storilo napako - v skupini namreč ne poje dotični pevec, marveč. Glej si ga no, &lt;strong&gt;Ronnie Romero&lt;/strong&gt;, ki istočasno razteguje glasilke tudi pri njihovih ekscelencah &lt;strong&gt;Rainbow&lt;/strong&gt; (!).&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/lords-of-black&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Lords Of Black&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/ii-2&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/lords%20of%20black.jpg?itok=47oSGZTF&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 25 Feb 2017 09:14:44 +0000</pubDate>
+ <dc:creator>Marko Lemaić</dc:creator>
+ <guid isPermaLink="false">10261 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Rulebreaker</title>
+    <link>http://www.profanity.si/recenzije/rulebreaker</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;No, pošteno povem, da sem se počutil malo nelagodno, ko sem prevzel nase izziv napisati recenzijo te plošče. &lt;strong&gt;Primal Fear&lt;/strong&gt; so namreč že kar stare sablje »Deutscher pawa metala«, ki se lahko pohvalijo s skoraj 20-letno zgodovino nepretrganega glasbenega ustvarjanja in častitljivimi enajstimi albumi. Ni slabo; po drugi strani pa gre za skupino, ki se tako striktno drži dogme svojega glasbenega ustvarjanja, da njihove glasbe več ni mogoče označiti kot klišejske, marveč že kar kot kliše &lt;em&gt;per se&lt;/em&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/primal-fear&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Primal Fear&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/rulebreaker&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/primalfear-rulebreaker.jpg?itok=M-jvR7-G&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 28 Jan 2016 08:57:22 +0000</pubDate>
+ <dc:creator>Marko Lemaić</dc:creator>
+ <guid isPermaLink="false">8882 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

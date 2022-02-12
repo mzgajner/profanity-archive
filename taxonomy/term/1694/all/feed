@@ -1,0 +1,18 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/1694/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Gilian Adam</title>
+    <link>http://www.profanity.si/taxonomy/term/1694/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/1694/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Heavy metal, Lederhosen in Vigilance</title>
+    <link>http://www.profanity.si/intervjuji/heavy-metal-lederhosen-in-vigilance</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;em&gt;Osebno nikoli nisem verjel v zamisel brezmejne podpore. Čemu bi pisal o skupini, pa naj bodo to moji najboljši prijatelji, če se me preprosto ne dotakne s tisto urgentnostjo, s katero se heavy metal pravega kova poslušalca mora? Čemu bi torej ne vidim torej razloga v tem, da bi &#039;&#039;podprl&#039;&#039; bend, v katerega ne verjamem stoodstotno, zato je prva beseda, ki mi je prešinila misli ob urednikovi omembi slovenskih bendov v zvezi s Profanity, bila &#039;&#039;Vigilance&#039;&#039;.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/intervjuji/heavy-metal-lederhosen-in-vigilance&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/gigo.jpg?itok=hu55_4yR&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 15 Feb 2012 22:06:53 +0000</pubDate>
+ <dc:creator>Andrej Čuk</dc:creator>
+ <guid isPermaLink="false">1446 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

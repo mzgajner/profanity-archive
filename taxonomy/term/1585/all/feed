@@ -1,0 +1,18 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/1585/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Monde Céleste</title>
+    <link>http://www.profanity.si/taxonomy/term/1585/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/1585/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Hazelscents (EP)</title>
+    <link>http://www.profanity.si/recenzije/hazelscents-ep</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Čudovit švedski bend/projekt Monde Céleste je eden tistih primerkov 100% iskrene glasbe, ki se ne pretvarja, da je nekaj, kar ni. Gre za zvrst glasbe, ki uspešno balansira med black metalom, shoegazeom in ambientalno filmsko glasbo (na pamet recimo pride glasba iz filmov The Mothman Prophecies ter K-Pax), in ki ni ne rip-off, niti molža katerega izmed naštetih (pod-)žanrov. Že res bi lahko zapisal, da gre enostavno za post-black metal, ampak se bojim, da bi s tem odprl vrata, ki jih niti ne bi znal zapreti, zato se bom takšnim opredeljevanjem vsaj na tem mestu raje izognil.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/monde-c%C3%A9leste&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Monde Céleste&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/hazelscents-ep&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/OMSLAG.JPG?itok=v1IsFVSS&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 05 Feb 2012 12:21:45 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">1381 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/736/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>tema</title>
+    <link>http://www.profanity.si/taxonomy/term/736/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/736/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Circumambulations Of The Solar Inferno</title>
+    <link>http://www.profanity.si/recenzije/circumambulations-of-the-solar-inferno</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Ura je ena zjutraj, polnoč je odbila že zdavnaj, vsaj tako se mi zdi. Temu tekstu bi lahko dala naslov &lt;em&gt;„Dear diary“&lt;/em&gt;, ne pa &lt;em&gt;Circumambulations of the Solar Inferno&lt;/em&gt;, kar je naslov novega splita ameriških Nightbringer in norveških Dødsengel. Kajti, Nightbringer v meni vedno zbudijo eno staro zverino, ki se sprašuje po smislu zvoka, vizualizacije in čutenja vsega hkrati.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/nightbringerd%C3%B8dsengel&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Nightbringer/Dødsengel&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/circumambulations-of-the-solar-inferno&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/Circumambulations%20of%20the%20Solar%20Inferno_Nightbringer_Dodsengel.jpg?itok=shktIEJL&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 21 Nov 2013 17:54:14 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">5494 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Gehenna - Ljubezen je le korak do sovraštva</title>
+    <link>http://www.profanity.si/intervjuji/gehenna-ljubezen-je-le-korak-do-sovra%C5%A1tva</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;em&gt;Ko sem že v preteklosti govoril o holy terror skupinah, nisem mogel iti mimo skupine Gehenna (ne mešati z norveško ali švedsko zasedbo), saj gre tukaj za eno najbolj vodilnih in eno najbolj nasilnih skupin v zgodovini holy terror glasbe (za razliko od Shining, vodja benda, vokalist, Mike Apocalypse (Gehenna, Sangraal, ex-Gravehill ... ne zbada sebe, ampak ostale). O HC-ju, black metalu, rapu, Manchester Cityju in ostalem nam je Mike zaupal na svoj način …&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/intervjuji/gehenna-ljubezen-je-le-korak-do-sovra%C5%A1tva&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/Mike%20Apocalypse%20%28Gehenna%29.jpg?itok=Xu4bZ6Rc&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 25 Aug 2011 07:24:56 +0000</pubDate>
+ <dc:creator>Matevž Weinberger Kovačič</dc:creator>
+ <guid isPermaLink="false">613 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

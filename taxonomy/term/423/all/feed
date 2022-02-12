@@ -1,0 +1,26 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/423/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Jamey Jasta</title>
+    <link>http://www.profanity.si/taxonomy/term/423/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/423/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>The Divinity of Purpose</title>
+    <link>http://www.profanity.si/recenzije/the-divinity-of-purpose</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Trajalo je kar 4 leta, preden so se Hatebreed vrnili z novim izdelkom. A po svoje logično, da je trajalo tako dolgo, glede na to, koliko je skupina po turnejah. Hatebreed po albumu Perserverance (2002) nekako niso uspeli obdržati enake kvalitete. Sledila sta sicer solidna izdelka Rise of Brutality (2003) ter Supremacy (2006), s prejšnjim samonaslovljenim izdelkom (2009) pa se je skupina izgubila, ker mu je preprosto manjkalo intenzivnosti, pa tudi skladbe niso izstopale. Z The Divinity of Purpose so Hatebreed napovedali povratek v bolj brutalne in nemelodične vode.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/hatebreed&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Hatebreed&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/the-divinity-of-purpose&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/23890_10151162629103881_1257396531_n.jpg?itok=92O32CQU&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 08 May 2013 21:42:52 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">4159 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Hardcore dominacija</title>
+    <link>http://www.profanity.si/reportaze/hardcore-dominacija</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Dan po dnevu državnosti je obetal predvsem na koncertnem področju, saj so se v Slovenijo – tokrat na Mostovno v Novi Gorici – vrnili prvaki novodobnega, metalsko obarvanega hardcora Hatebreed. Ameriški kvintet izvira iz zvezne države Connecticut, ustanovil pa ga je frontman, deloholik in veliki hardcore entuziast Jamey Jasta (foto: Scott Alexander).&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/reportaze/hardcore-dominacija&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/Hatebreed_jamey001.jpg?itok=dF4OMbvy&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-datum field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Datum:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2011-06-26T00:00:00+02:00&quot;&gt;Sun, 06/26/2011&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 27 Jun 2011 07:39:49 +0000</pubDate>
+ <dc:creator>Ivan Cepanec</dc:creator>
+ <guid isPermaLink="false">350 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

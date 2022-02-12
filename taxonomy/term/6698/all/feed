@@ -1,0 +1,18 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/6698/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Cemetarian</title>
+    <link>http://www.profanity.si/taxonomy/term/6698/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/6698/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Tomb of Morbid Stench</title>
+    <link>http://www.profanity.si/recenzije/tomb-of-morbid-stench</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Ne bom ovinkaril, izdaja, o kateri pišem, ni za vsakogar. Demo &lt;em&gt;Tomb of Morbid Stench&lt;/em&gt; je namenjen ljudem, ki jim je všeč stara šola death metala. &lt;strong&gt;Cemetarian&lt;/strong&gt; je skupina, ki zvokovno povezuje švedski death metal s tistim zlim pristopom &lt;strong&gt;Incantation&lt;/strong&gt; in sorodnih ameriških death metal bandov. Kdor pozna dotična imena, bo v &lt;strong&gt;Cemetarian&lt;/strong&gt; gotovo slišal nekaj domačega in prijetnega, ostali poslušalci pa se utegnejo zgubiti v tem labirintu pravovernega starošolskega death metala.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/cemetarian&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Cemetarian&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/tomb-of-morbid-stench&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/cemetarian.jpg?itok=gTTTqIVi&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 17 Apr 2020 11:17:41 +0000</pubDate>
+ <dc:creator>Andrej Čuk</dc:creator>
+ <guid isPermaLink="false">13118 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

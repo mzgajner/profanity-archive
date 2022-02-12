@@ -1,0 +1,59 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/1166/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>atmosfera</title>
+    <link>http://www.profanity.si/taxonomy/term/1166/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/1166/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Reportaža: Buka da te sfuka</title>
+    <link>http://www.profanity.si/reportaze/reporta%C5%BEa-buka-da-te-sfuka</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;em&gt;Kulinarično poslastico je priravil chef extraordinaire, mr. Cveto Ramšak.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Sestavine:&lt;/p&gt;
+&lt;p&gt;1x Gromka&lt;/p&gt;
+&lt;p&gt;19,10 litra piva&lt;/p&gt;
+&lt;p&gt;1x TCO&lt;/p&gt;
+&lt;p&gt;1x VOS&lt;/p&gt;
+&lt;p&gt;1x Jucifer&lt;/p&gt;
+&lt;p&gt;američke cigare&lt;/p&gt;
+&lt;p&gt;Priprava:&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/reportaze/reporta%C5%BEa-buka-da-te-sfuka&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/svinjska_mastkg.jpg?itok=nQuQ9feH&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-datum field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Datum:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2013-10-19T00:00:00+02:00&quot;&gt;Sat, 10/19/2013&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 22 Oct 2013 18:10:27 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">5251 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Réminiscence</title>
+    <link>http://www.profanity.si/recenzije/r%C3%A9miniscence</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Smrt, tema, agonija in večna ostra zima, ki tudi naše kraje ne spušča iz rok že dober čas. Mogoče nam je končno začelo dišati po spomladi in zeleni travi, ampak sz plato &lt;em&gt;Réminiscence&lt;/em&gt; boste pozabili, da imate v sebi še kakšen odtenek upanja na bolje. Vse, kar je na pameti, je poezija, večno ustvarjanje, ki vedno poteka iz največjih bolečin duše nekega človeka. Grozljivo sprehajanje po gozdovih lastnega življenja in spominov, ko nobeden ne gleda, vedno zveni najlepše na koncu. Vsaj tako pravijo poetiki, mi pa to lahko slišimo pri Csejthe.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/csejthe&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Csejthe&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/r%C3%A9miniscence&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/virselis.jpg?itok=IFOfuY9L&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 12 Apr 2013 14:46:37 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">3980 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Empros</title>
+    <link>http://www.profanity.si/recenzije/empros</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt; »The reader lives a thousand lives before he dies. The man who never reads lives only one.«&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/russian-circles&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Russian Circles&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/empros&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/russiancirclescover.jpg?itok=3NrcYvik&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 17 Jan 2012 17:31:53 +0000</pubDate>
+ <dc:creator>Mitja Kralj</dc:creator>
+ <guid isPermaLink="false">1283 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Belo Dunum</title>
+    <link>http://www.profanity.si/recenzije/belo-dunum</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;V celoti je ime albuma Belo Dunum: Echoes From The Past, sam album pa predstavlja ne samo poklon domačem mestu, iz katerega izhajajo Delirium X Tremens (torej, Belluno v Italiji), ampak tudi premik v cono, kjer je bistvo tega italijanskega benda zasijalo z vso močjo.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/delirium-x-tremens&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Delirium X Tremens&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/belo-dunum&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/cover_Delirium_X_Tremens_Belo_Dunum.jpg?itok=lJ1DhGfV&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 29 Dec 2011 13:05:30 +0000</pubDate>
+ <dc:creator>Ivan Cepanec</dc:creator>
+ <guid isPermaLink="false">1192 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>An Excellent Servant, But a Terrible Master</title>
+    <link>http://www.profanity.si/recenzije/an-excellent-servant-but-a-terrible-master</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;HURA, IZOBRAŽEVANJE!&lt;/p&gt;
+&lt;p&gt;Če ste seznanjeni z distopijo, potem lahko ta odstavek preskočite in samega sebe potrepljate po rami v lažnem upanju, da ste inteligentni. Ostali nadaljujte z branjem. Distopija je, na hitro, zvrst fikcije, ki se počasi spreminja v dejstvo. V osnovi gre za vizijo bližnje prihodnosti, kjer se večinoma prikazuje propadlo civilizacijo, ekstremne razlike med višjim in nižjim slojem, svet v vojni, človeka kot številko/predmet ipd.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/pyrrhon&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Pyrrhon&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/an-excellent-servant-but-a-terrible-master&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/Pyrrhon-An-Excellent-Servant-But-A-Terrible-Master-260x260.jpg?itok=bi2Or-Rv&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 14 Nov 2011 08:23:15 +0000</pubDate>
+ <dc:creator>Mitja Kralj</dc:creator>
+ <guid isPermaLink="false">973 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

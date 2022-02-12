@@ -1,0 +1,19 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/2240/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Pennywise punk rock Bad Religion Epitaph</title>
+    <link>http://www.profanity.si/taxonomy/term/2240/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/2240/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>All or Nothing </title>
+    <link>http://www.profanity.si/recenzije/all-or-nothing</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Pri ameriških punk rock legendah iz Kalifornije se je leta 2010 pojavilo mnogo ugibanj in dvomov zaradi odhoda dolgoletnega pevca Jima Lindberga. V njegove čevlje je stopil Zoli Téglás, ki se je prej izkazal s skupino Ignite. A za Pennywise naj ne bi preveč ustrezen, ker njegov vokal ni tako grob kot Jimov. Pennywise so pridno hodili na turneje, vmes pa so pisali novi album. Dobra štiri leta po dobro sprejetem albumu Reason to Believe je luč sveta ugledal All or Nothing, prvi album z Zolijem na vokalu. Dvomi so bili naenkrat utišani, četudi Zoli ni vsem ustrezen.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/pennywise&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Pennywise&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/all-or-nothing&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/423481_10150721452541823_1950422625_n.jpg?itok=r-6mnduo&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 29 Jun 2012 13:02:15 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">2150 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

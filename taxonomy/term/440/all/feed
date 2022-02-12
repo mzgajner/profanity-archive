@@ -1,0 +1,47 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/440/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Hellcrawler</title>
+    <link>http://www.profanity.si/taxonomy/term/440/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/440/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>The End Of Humanity </title>
+    <link>http://www.profanity.si/recenzije/the-end-of-humanity</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;strong&gt;I: APOCALYPSE NOW&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Končno je napočil čas, ko sem oz. smo si na Profanity lahko zavrteli novost iz štaba Hellcrawler, katerim v tokratnem primeru pomagajo Avstralski prijatelji glasbeno apokaliptične destrukcije Wölfe.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;II: HELLCRAWLER&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Prednostno pozicijo pri albumu uberejo domačini Hellcrawler, ki nam v sklopu 10 minut ponudijo 3 skladbe.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/hellcrawler-w%C3%B6lfe&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Hellcrawler &amp;amp; Wölfe&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/the-end-of-humanity&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/Hellcrawler%20%26%20W%C3%B6lfe-The%20End%20Of%20Humanity%20%282014%2C%20The%20End%20Of%20Humanity%20Records%29.jpg?itok=haCjMV73&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 16 Jun 2014 08:45:44 +0000</pubDate>
+ <dc:creator>Matevž Weinberger Kovačič</dc:creator>
+ <guid isPermaLink="false">6624 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>He Is Crossing</title>
+    <link>http://www.profanity.si/recenzije/he-is-crossing</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Devil&#039;s Bridge je eden tistih bendov, ki tako kot večina bendov na zahodnem delu naše države ustvarja precej zanimivo glasbo, ki se vam bo usedla v spomin predvsem zaradi resnično nalezljivih kitarskih linij. Tako je – prva stvar, ki usmerja fokus pri poslušanju kar dolgega prvenca He Is Crossing, so kitarske linije, kitarski liki, kitarski zvok ipd.&lt;/p&gt;
+&lt;p&gt;Kar ni seveda nič napačnega.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/devils-bridge&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Devil&amp;#039;s Bridge&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/he-is-crossing&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/devil%20bridge.jpg?itok=T4jZEUDf&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 11 Jul 2013 19:29:36 +0000</pubDate>
+ <dc:creator>Ivan Cepanec</dc:creator>
+ <guid isPermaLink="false">4571 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Počasno gnitje v dežju - Ma kej sje sjekiraš če je škifo vrjeme, ma bodo pa tartufi ne!</title>
+    <link>http://www.profanity.si/reportaze/po%C4%8Dasno-gnitje-v-de%C5%BEju-ma-kej-sje-sjekira%C5%A1-%C4%8De-je-%C5%A1kifo-vrjeme-ma-bodo-pa-tartufi-ne</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;V s koncerti natrpanem juliju so se nas odločili obiskati tudi legendarni Obituary. Verjetno je mnoge presenetilo dejstvo, da igrajo na Mostovni, tako kot bojo v kratkem še legendarne skupine  Suicidal Tendencies ter mnoge druge. V vsakem primeru je obilno koncertovanje v Mostovni več kot zaželeno, saj se je tako po Ljubljani in Mariboru ustvaril še tretji metalskokoncertni center pri nas.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/reportaze/po%C4%8Dasno-gnitje-v-de%C5%BEju-ma-kej-sje-sjekira%C5%A1-%C4%8De-je-%C5%A1kifo-vrjeme-ma-bodo-pa-tartufi-ne&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/DSC_0551.JPG?itok=--eLuBKH&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-datum field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Datum:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2012-06-04T00:00:00+02:00&quot;&gt;Mon, 06/04/2012&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 07 Jun 2012 23:04:47 +0000</pubDate>
+ <dc:creator>Anonymous</dc:creator>
+ <guid isPermaLink="false">2053 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Decade of Dust</title>
+    <link>http://www.profanity.si/recenzije/decade-of-dust</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;V najtemnejših kotih HC-glasbe se iz teme približuje skupina peklenskega konja in nam v &#039;&#039;letu gospodovem&#039;&#039; 2011 ponuja najbolj umazan in melanholičen album agresivne glasbe.&lt;/p&gt;
+&lt;p&gt;Plošček gnusa, umazanije in počrnelega crust/HC-ja se je razvil iz ruševin skupine Black Teeth (verjetno vam je to ime precej neznano, ampak vseeno), ki pa so, kakor vemo, temeljili na vsemu, na čemu Bon Jovi ni nikoli. Se pravi, na propadu religije, politike in praktično celotnega sveta, kar pa zveni super in vse bolj zanimivo, ko se stvar začne vrteti od začetka proti koncu.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/hellhorse&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Hellhorse&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/decade-of-dust&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/Hellhorse-Decade%20of%20Dust%20%28Twelve%20Gauge%20Records%2C%202011%29.jpg?itok=fGrM0FKK&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 27 Jun 2011 14:37:47 +0000</pubDate>
+ <dc:creator>Matevž Weinberger Kovačič</dc:creator>
+ <guid isPermaLink="false">356 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/4815/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>In Cold Blood</title>
+    <link>http://www.profanity.si/taxonomy/term/4815/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/4815/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Shin To Shin</title>
+    <link>http://www.profanity.si/recenzije/shin-to-shin</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Nobena skrivnost ni, da obožujem Integrity in vse, kar povezuje celotno holy terror sceno. In temu primerno obožujem tudi skupine, katere se z Integrity povezujejo po članih, sodelovanju, žanru,…&lt;/p&gt;
+&lt;p&gt;Razvejana veja Dwidovega drevesa pa sega tudi do skupine Shin To Shin.&lt;/p&gt;
+&lt;p&gt;Omenjeno skupino tvori Aaron Melnick, katerega nekateri bolje poznate od Integrity izdaj Those Who Fear Tomorrow, Systems Overload, Humanity Is The Devil ter Seasons In The Size Of Days.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/shin-to-shin&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Shin To Shin&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/shin-to-shin&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/Shin%20To%20Shin-Shin%20To%20Shin%20%282014%2C%20A389%20Recordings%29.jpg?itok=O3fqeYR0&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 06 Apr 2014 17:02:41 +0000</pubDate>
+ <dc:creator>Matevž Weinberger Kovačič</dc:creator>
+ <guid isPermaLink="false">6227 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

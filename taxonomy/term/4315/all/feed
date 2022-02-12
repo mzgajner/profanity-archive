@@ -1,0 +1,26 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/4315/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Black Tusk</title>
+    <link>http://www.profanity.si/taxonomy/term/4315/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/4315/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Pillars of Ash</title>
+    <link>http://www.profanity.si/recenzije/pillars-of-ash</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&quot;Ej Jovo, že dolgo napisal kakšne recenzije. Ker si poosebljeni Eros, Apolon in Aris - pa ne tisti iz Kopra temveč tisti iz &lt;strong&gt;Xena, the Warrior Princess&lt;/strong&gt; - me je zanimalo, če bi blagoslovil naš Profanity webzine z recenzijo? Ne zato, ker bi res nujno potrebovali oceno nove &lt;strong&gt;Black Tusk&lt;/strong&gt; plate, ampak zato, ker Matevž še ni videl slovenskega pravopisa, Mitja pa je preveč zaposlen s svojim gay alter-egom.&quot; Ivan je deloval zaskrbljeno, čutil sem tresljaj v njegovem glasu, mogoče sem celo začutil nabirajočo se solzico v kotičku očesa, zato sem privolil. &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/black-tusk&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Black Tusk&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/pillars-of-ash&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/blackshit.jpg?itok=AffrE2Vk&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 01 Feb 2016 20:26:58 +0000</pubDate>
+ <dc:creator>Jovo</dc:creator>
+ <guid isPermaLink="false">8901 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Whales and Leeches</title>
+    <link>http://www.profanity.si/recenzije/whales-and-leeches</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Drago moje pleme, bradati bradje in bradati sestri, katerih jedilnik je očitno sestavljen iz moških hormonov, posedite z menoj. Posedite se okoli večnega plamenskega ognja, kateri se napaja iz mističnega jezera prepovedane vodice po britju. Dajmo čevapčiče na ognje, saj imam dolgo zgodbo za vas, ki to ni.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/red-fang&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Red Fang&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/whales-and-leeches&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/red-fang-whales-leeches.jpg?itok=RwICOZ--&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 19 Oct 2013 12:33:18 +0000</pubDate>
+ <dc:creator>Mitja Kralj</dc:creator>
+ <guid isPermaLink="false">5229 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

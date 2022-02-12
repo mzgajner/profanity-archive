@@ -1,0 +1,20 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/5459/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>VVegas</title>
+    <link>http://www.profanity.si/taxonomy/term/5459/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/5459/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Prelude To The Process</title>
+    <link>http://www.profanity.si/recenzije/prelude-to-the-process</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Pri zadnji izdaji angleške zasedbe &lt;strong&gt;Lay It On The Line&lt;/strong&gt; moram priznati sem bil že na samem začetku presenečen.&lt;/p&gt;
+&lt;p&gt;Skupina, je v dobrih 3 letih nanizala nekaj EP izdelkov, split album ter en &#039;&#039;celovečerec&#039;&#039; in se pri vseh izdajah bolj ali manj obračala na HC ter večino podzvrsti HC žanra. V enem trenutku smo prejeli težo &#039;&#039;zmetaliziranega&#039;&#039; HCja v drugem pa povsem lahko melodično sprehajanje sončne strani melodičnega HCja.&lt;/p&gt;
+&lt;p&gt;Presenečenje oz. novost novega albuma pa je skok v temo oz. v temačnejši predel HC žanra – natančneje holy terror.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/lay-it-on-the-line&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Lay It On The Line&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/prelude-to-the-process&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/Lay%20It%20On%20The%20Line-A%20Prelude%20To%20The%20Process%20%282015%2C%20Aaahh%21%20Real%20Records%29.jpg?itok=kI2XB_tm&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 22 May 2015 06:24:08 +0000</pubDate>
+ <dc:creator>Matevž Weinberger Kovačič</dc:creator>
+ <guid isPermaLink="false">7966 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

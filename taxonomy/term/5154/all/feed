@@ -1,0 +1,19 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/5154/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Hellheim</title>
+    <link>http://www.profanity.si/taxonomy/term/5154/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/5154/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Reportaža: METALDAYS dan 1</title>
+    <link>http://www.profanity.si/reportaze/reporta%C5%BEa-metaldays-dan-1</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;&lt;em&gt;Reportažo smo sestavili Ivan, &lt;/em&gt;&lt;em&gt;Jernej in Petra&lt;/em&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Metaldays, drugo leto, malce drugačno oblečena maskota, razprodan festival, ne tako dobro vreme in zelo različen nabor bendov, ki mogoče – vem, subjektivno, a vseeno – toliko ne dosega ubijalskosti line-upa prejšnjega leta (pa tega ne govorim le zaradi Kinga Diamonda!). A vseeno največji slovenski metal festival, ki traja dober teden (za nekatere še več), ki Tolmin spremeni v mravljišče metalcev, metalk in vseh drugih, ki se pod dotične ne štejejo, a jim določeni bendi/ambient kot taki sedejo.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/reportaze/reporta%C5%BEa-metaldays-dan-1&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/00%20METALDAYS%20NASLOVNICA%20DAY%201.JPG?itok=SY7HzW-m&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-datum field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Datum:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot; property=&quot;dc:date&quot; datatype=&quot;xsd:dateTime&quot; content=&quot;2014-07-21T00:00:00+02:00&quot;&gt;Mon, 07/21/2014&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Wed, 06 Aug 2014 13:47:05 +0000</pubDate>
+ <dc:creator>Ivan Cepanec</dc:creator>
+ <guid isPermaLink="false">6861 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

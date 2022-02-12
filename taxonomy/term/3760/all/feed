@@ -1,0 +1,26 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/3760/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>On Parole</title>
+    <link>http://www.profanity.si/taxonomy/term/3760/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/3760/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Paroxysm of Disgust</title>
+    <link>http://www.profanity.si/recenzije/paroxysm-of-disgust</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Nenadjebljiva grindkoračina, ki sliši na ime &lt;em&gt;Dickless Tracy&lt;/em&gt;, brežiška tolpa spreobrnjencev v starošolski death metal, je nedavno zagrešila novo glasbeno abominacijo - četrto dolgometražno ploščo &lt;em&gt;Paroxysm of Disgust&lt;/em&gt;. Album je nastajal zadnjih nekaj let, bend pa ga je v celoti predstavil tudi že v živo. Na eni strani razširja in nadgrajuje glasbeni izraz, ki so ga začrtali s predhodnikom &lt;em&gt;Halls of Sickness &lt;/em&gt;(2009), na drugi strani pa z njim pogledujejo nazaj v lastno ustvarjalno preteklost.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/dickless-tracy&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Dickless Tracy&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/paroxysm-of-disgust&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/paroxysm_of_disgust.jpg?itok=jFlo_ZGh&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Tue, 04 Nov 2014 16:25:51 +0000</pubDate>
+ <dc:creator>Jernej Rejc</dc:creator>
+ <guid isPermaLink="false">7291 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Crematory</title>
+    <link>http://www.profanity.si/recenzije/crematory</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Če ste imeli to srečo, da ste odraščali v manjšem mestecu na jugovzhodu Slovenije, ste verjetno malce težje prišli stik z metalom. A na srečo sem v bloku imel kar nekaj sosedov, ki so mojega starejšega brata zalagali z metalskim materialom v obliki plošč, kaset in celo videspotov, ki smo si jih presnemavali na najbolj češke možne načine. A v Brežicah v začetku devetdesetih dobiti slovenski metal bend na kaseti? Mission impossible.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/sarcasm&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Sarcasm&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/crematory&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/SARCASM%20-%20Crematory%202013.jpg?itok=OfcH1GG3&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Fri, 21 Jun 2013 14:06:23 +0000</pubDate>
+ <dc:creator>Ivan Cepanec</dc:creator>
+ <guid isPermaLink="false">4447 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

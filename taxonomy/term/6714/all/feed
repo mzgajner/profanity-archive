@@ -1,0 +1,19 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/6714/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Baphomet</title>
+    <link>http://www.profanity.si/taxonomy/term/6714/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/6714/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Elongated Misery</title>
+    <link>http://www.profanity.si/recenzije/elongated-misery</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;V začetku lanskega avgusta sta v razmaku štirih dni na slovensko sceno prišla kar dva domača death metal izdelka, in sicer demo &lt;strong&gt;Entranced By Decay&lt;/strong&gt; zasedbe &lt;strong&gt;Ensanguinate&lt;/strong&gt; ter prvi album zasedbe &lt;strong&gt;&lt;a href=&quot;https://www.facebook.com/nefariousvermin&quot;&gt;Nefarious Vermin&lt;/a&gt;,&lt;/strong&gt; &lt;strong&gt;Elongated Misery&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Oba sta izšla v samozaložbi, oba sta tudi bila posneta in zvočno obdelana praktično s strani samih bendov ter predstavljata starošolski death metal, čeprav vsak na svoj način.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/nefarious-vermin&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Nefarious Vermin&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/elongated-misery&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/a0757238330_10.jpg?itok=F5lLK2VR&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 04 Jan 2021 10:44:39 +0000</pubDate>
+ <dc:creator>Ivan Cepanec</dc:creator>
+ <guid isPermaLink="false">13158 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://www.profanity.si/taxonomy/term/4259/all" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Klubski Maraton</title>
+    <link>http://www.profanity.si/taxonomy/term/4259/all</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://www.profanity.si/taxonomy/term/4259/all/feed" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Joko Ono</title>
+    <link>http://www.profanity.si/recenzije/joko-ono</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Kaj je boljše od dobre izdaje? Še boljša izdaja. Kaj je potem boljše od še boljše izdaje? Super izdaja. In kaj potem od super izdaje? Super izdaja iz Slovenije. Ne gledamo iz nacionalističnega vidika, ampak iz vidika, da je slovenska scena daleč od izumrtja.&lt;/p&gt;
+&lt;p&gt;In tokrat nam dejstvo, da smo daleč pred izumrtjem dokazuje Ljubljanska zasedba Joko Ono in njihova najnovejša istoimenska kreacija, poimenovana torej Joko Ono.&lt;/p&gt;
+&lt;p&gt;I: Ena&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/joko-ono&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Joko Ono&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/joko-ono&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/Joko%20Ono-Joko%20Ono%20%282013%2C%20Zalo%C5%BEba%20Radio%20%C5%A0tudnet%29.jpg?itok=zjpaTNZr&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 19 Oct 2013 12:44:19 +0000</pubDate>
+ <dc:creator>Matevž Weinberger Kovačič</dc:creator>
+ <guid isPermaLink="false">5230 at http://www.profanity.si</guid>
+  </item>
+  <item>
+    <title>Klubski Maraton</title>
+    <link>http://www.profanity.si/recenzije/klubski-maraton</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot; property=&quot;content:encoded&quot;&gt;&lt;p&gt;Ponovno je nad nas prišel Klubski maraton oz. skupek novih skupin, katere se bodo predstavile v klubih po vsej Sloveniji. Turneja traja od 20. 9. pa vse do 8. 11., ko se bodo na Metelkovi v istem večeru predstavile vse skupine. Več informacij o turneji: &lt;a href=&quot;http://www.radiostudent.si/klubskimaraton&quot;&gt;www.radiostudent.si/klubskimaraton&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-glasbenik field-type-taxonomy-term-reference field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/glasbeniki/various-artists&quot; typeof=&quot;skos:Concept&quot; property=&quot;rdfs:label skos:prefLabel&quot; datatype=&quot;&quot;&gt;Various Artists&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-slika field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/recenzije/klubski-maraton&quot;&gt;&lt;img typeof=&quot;foaf:Image&quot; src=&quot;http://www.profanity.si/sites/default/files/styles/recenzija_thumb/public/600600p461EDNmain154klubski%20maraton%202013.jpg?itok=z-0vIhWa&quot; width=&quot;100&quot; height=&quot;100&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 05 Oct 2013 10:09:01 +0000</pubDate>
+ <dc:creator>Matevž Weinberger Kovačič</dc:creator>
+ <guid isPermaLink="false">5140 at http://www.profanity.si</guid>
+  </item>
+  </channel>
+</rss>
